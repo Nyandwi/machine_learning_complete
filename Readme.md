@@ -5,6 +5,9 @@
 ***Techniques, tools, best practices and everything you need to to learn machine learning!***
 
 
+![tools](https://github.com/Nyandwi/machine_learning_complete/blob/main/images/ml_pack.png)
+
+
 This is a comprehensive repository containing 30+ notebooks on Python programming, data manipulation, data analysis, data visualization, data cleaning, classical machine learning, Computer Vision and Natural Language Processing(NLP). 
 
 All notebooks were created with the readers in mind. Every notebook starts with a high-level overview of any specific algorithm/concepts being covered. Wherever possible, visuals are used to make things clear. 
@@ -21,8 +24,6 @@ The easiest way to view all the notebooks is to use Nbviewer. If you want to pla
 
 
 ## Tools Overview
-
-![tools](https://github.com/Nyandwi/machine_learning_complete/blob/main/images/ML%20Blueprint.png)
 
 The following are the tools that are covered in the notebooks. They are popular tools that machine learning engineers and data scientists need in one way or another an day to day. 
 
