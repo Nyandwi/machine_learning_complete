@@ -22,6 +22,8 @@ The easiest way to view all the notebooks is to use Nbviewer. If you want to pla
 
 ## Tools Overview
 
+![tools](https://github.com/Nyandwi/machine_learning_complete/blob/main/images/ML%20Blueprint.png)
+
 The following are the tools that are covered in the notebooks. They are popular tools that machine learning engineers and data scientists need in one way or another an day to day. 
 
 * **Python** is a high level programming language that has got a lot of popularity in the data community and with the rapid growth of the libraries and frameworks, this is a right programming language to do ML.
