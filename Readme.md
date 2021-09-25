@@ -1,5 +1,6 @@
 # A Complete Machine Learning Package
 
+****************
 
 ***Techniques, tools, best practices and everything you need to to learn machine learning!***
 
@@ -45,9 +46,9 @@ The following are the tools that are covered in the notebooks. They are popular 
 ## Part 1 - Intro to Python and Working with Data
 
 
-### [0 - Intro to Python for Machine Learning]()
+### [0 - Intro to Python for Machine Learning](https://github.com/Nyandwi/machine_learning_complete/blob/main/0_python_for_ml/intro_to_python.ipynb)
 
-### [1 - Data Computation With NumPy]()
+### [1 - Data Computation With NumPy](https://github.com/Nyandwi/machine_learning_complete/blob/main/1_data_computations_with_numpy/1_intro_to_Numpy_for_data_computation.ipynb)
 
 * Creating a NumPy Array
 * Selecting Data: Indexing and Slicing An Array
@@ -55,7 +56,7 @@ The following are the tools that are covered in the notebooks. They are popular 
 * Perform Basic Statistics
 * Manipulating Data
 
-#### [2 - Data Manipulation with Pandas]()
+#### [2 - Data Manipulation with Pandas](https://github.com/Nyandwi/machine_learning_complete/blob/main/2_data_manipulation_with_pandas/2_data_manipulation_with_pandas.ipynb)
 
 
 * Basics of Pandas for data manipulation:
@@ -73,23 +74,23 @@ The following are the tools that are covered in the notebooks. They are popular 
 ### 3 - Data Visualization with Matplotlib and Seaborn
 
 
-* [Data Visualization with Matplotlib]()
-* [Data Visualization with Seaborn]()
-* [Optional: Data Visualization with Pandas]()
+* [Data Visualization with Matplotlib](https://github.com/Nyandwi/machine_learning_complete/blob/main/3_data_visualization/1_data_visualizations_with_matplotlib.ipynb)
+* [Data Visualization with Seaborn](https://github.com/Nyandwi/machine_learning_complete/blob/main/3_data_visualization/2_data_visualization_with_seaborn.ipynb)
+* [Optional: Data Visualization with Pandas](https://github.com/Nyandwi/machine_learning_complete/blob/main/3_data_visualization/3_data_visualization%20with_pandas.ipynb)
 
 ### 4 - Real World Data - Exploratory Analysis and Data Preparation
 
-* [Exploratory Data Analysis]()
-* [Intro to Data Preparation]()
-* [Handling Missing Values]()
-* [Handling Categorical Features]()
-* [Feature Scaling]()
+* [Exploratory Data Analysis](https://github.com/Nyandwi/machine_learning_complete/blob/main/4_real_world_data_analysis_and_preparation/1_exploratory_data_analysis.ipynb)
+* [Intro to Data Preparation](https://github.com/Nyandwi/machine_learning_complete/blob/main/4_real_world_data_analysis_and_preparation/2_intro_to_data_preparation.ipynb)
+* [Handling Categorical Features](https://github.com/Nyandwi/machine_learning_complete/blob/main/4_real_world_data_analysis_and_preparation/3_encoding_categorical_features.ipynb)
+* [Feature Scaling](https://github.com/Nyandwi/machine_learning_complete/blob/main/4_real_world_data_analysis_and_preparation/4_feature_scaling.ipynb)
+* [Handling Missing Values](https://github.com/Nyandwi/machine_learning_complete/blob/main/4_real_world_data_analysis_and_preparation/5_handling_missing_values.ipynb)
 
 
-## Part 2 - Classical Machine Learning
+## Part 2 - Machine Learning
 
 
-### [5 - Intro to Machine Learning]()
+### [5 - Intro to Machine Learning](https://github.com/Nyandwi/machine_learning_complete/blob/main/5_intro_to_machine_learning/5_intro_to_machine_learning.ipynb)
 
 * Intro to Machine Learning
 * Machine Learning Workflow
@@ -99,25 +100,25 @@ The following are the tools that are covered in the notebooks. They are popular 
 
 ### 6 - Classical Machine Learning with Scikit-Learn
 
-* [Intro to Scikit-Learn for Machine Learning]()
-* [Linear Models for Regression]()
-* [Linear Models for Classification]()
-* [Support Vector Machines: Intro and Regression]()
-* [Support Vectot Machines for Classification]()
-* [Decision Trees: Intro and Regression]()
-* [Decision Trees for Classification]()
-* [Random Forests: Intro and Regression]()
-* [Random Forests for Classification]()
-* [Beyond Random Forests: More Ensemble Models]()
-* [Intro to Unsupervised Learning with KMeans Clustering]()
-* [A Practical Intro to Principal Component Analysis]()
+* [Intro to Scikit-Learn for Machine Learning](https://github.com/Nyandwi/machine_learning_complete/blob/main/6_classical_machine_learning_with_scikit-learn/0_intro_to_sklearn.ipynb)
+* [Linear Models for Regression](https://github.com/Nyandwi/machine_learning_complete/blob/main/6_classical_machine_learning_with_scikit-learn/1_linear_models_for_regression.ipynb)
+* [Linear Models for Classification](https://github.com/Nyandwi/machine_learning_complete/blob/main/6_classical_machine_learning_with_scikit-learn/2_linear_models_for_classification.ipynb)
+* [Support Vector Machines: Intro and Regression](https://github.com/Nyandwi/machine_learning_complete/blob/main/6_classical_machine_learning_with_scikit-learn/3_support_vector_machines_for_regression.ipynb)
+* [Support Vector Machines for Classification](https://github.com/Nyandwi/machine_learning_complete/blob/main/6_classical_machine_learning_with_scikit-learn/4_support_vector_machines_for_classification.ipynb)
+* [Decision Trees: Intro and Regression](https://github.com/Nyandwi/machine_learning_complete/blob/main/6_classical_machine_learning_with_scikit-learn/5_decision_trees_for_regression.ipynb)
+* [Decision Trees for Classification](https://github.com/Nyandwi/machine_learning_complete/blob/main/6_classical_machine_learning_with_scikit-learn/6_decision_trees_for_classification.ipynb)
+* [Random Forests: Intro and Regression](https://github.com/Nyandwi/machine_learning_complete/blob/main/6_classical_machine_learning_with_scikit-learn/7_random_forests_for_regression.ipynb)
+* [Random Forests for Classification](https://github.com/Nyandwi/machine_learning_complete/blob/main/6_classical_machine_learning_with_scikit-learn/8_random_forests_for_classification.ipynb)
+* [Beyond Random Forests: More Ensemble Models](https://github.com/Nyandwi/machine_learning_complete/blob/main/6_classical_machine_learning_with_scikit-learn/9_ensemble_models.ipynb)
+* [Intro to Unsupervised Learning with KMeans Clustering](https://github.com/Nyandwi/machine_learning_complete/blob/main/6_classical_machine_learning_with_scikit-learn/10_intro_to_unsupervised_learning_with_kmeans_clustering.ipynb)
+* [A Practical Intro to Principal Component Analysis](https://github.com/Nyandwi/machine_learning_complete/blob/main/6_classical_machine_learning_with_scikit-learn/11_a_practical_intro_to_principal_components_analysis.ipynb)
 
 
 ## Part 3 - Deep Learning
 
 ### 7 - Intro to Artificial Neural Networks and TensorFlow
 
-* [Intro to Articial Neural Networks]()
+* [Intro to Articial Neural Networks](https://github.com/Nyandwi/machine_learning_complete/blob/main/7_intro_to_artificial%20_neural_networks_and_tensorflow/1_intro_to_neural_networks.ipynb)
 
     * Why Deep Learning
     * A Single Layer Neural Network
@@ -130,33 +131,33 @@ The following are the tools that are covered in the notebooks. They are popular 
         
     * Challenges in Training Deep Neural Networks
     
-* [Intro to TensorFlow for Artificial Neural Networks]()
+* [Intro to TensorFlow for Artificial Neural Networks](https://github.com/Nyandwi/machine_learning_complete/blob/main/7_intro_to_artificial%20_neural_networks_and_tensorflow/2_intro_to_tensorflow_for_deeplearning.ipynb)
 
     * What is TensorFlow?
     * TensorFlow Model APIs
     * A Quick Tour into TensorFlow Ecosystem
     * Basics of Tensors
     
-* [Neural Networks for Stuctured data: Regression]()
+* [Neural Networks for Regression with TensorFlow](https://github.com/Nyandwi/machine_learning_complete/blob/main/7_intro_to_artificial%20_neural_networks_and_tensorflow/3_neural_networks_for_regresion_with_tensorflow.ipynb)
 
-* [Neural Networks for Stuctured data: Classification]()
+* [Neural Networks for Classification with TensorFlown](https://github.com/Nyandwi/machine_learning_complete/blob/main/7_intro_to_artificial%20_neural_networks_and_tensorflow/4_neural_networks_for_classification_with_tensorflow.ipynb)
 
 
 ### 8 - Deep Computer Vision with TensorFlow
  
-* [Intro to Computer Vision with Convolutional Neural Networks(CNN)]()
+* [Intro to Computer Vision with Convolutional Neural Networks(CNN)](https://github.com/Nyandwi/machine_learning_complete/blob/main/8_deep_computer_vision%20with_tensorflow/1_intro_to_computer_vision_and_cnn.ipynb)
 
     * Intro to Computer Vision and CNNs
        * What is Convolutional Neural Networks?
        * A Typical Architecture of Convolutional Neural Networks
     * Coding ConvNets: Image Classification
     
-* [ConvNets for Real World Data and Image Augmentation]()
+* [ConvNets for Real World Data and Image Augmentation](https://github.com/Nyandwi/machine_learning_complete/blob/main/8_deep_computer_vision%20with_tensorflow/2_cnn_for_real_world_data_and_image_augmentation.ipynb)
 
     * Intro - Real World Datasets and Data Augmentation
     * Getting Started: Real World Datasets and Overfitting
     * Image Augmentation with Keras Image Augmentation Layers
-* [CNN Architectures and Transfer Learning]()
+* [CNN Architectures and Transfer Learning](https://github.com/Nyandwi/machine_learning_complete/blob/main/8_deep_computer_vision%20with_tensorflow/3_cnn_architectures_and_transfer_learning.ipynb)
 
     * Looking Back: A Review on State of the Art CNN Architectures
     * Intro to Transfer Learning and using Pretrained Models
@@ -166,30 +167,30 @@ The following are the tools that are covered in the notebooks. They are popular 
 
 ### 9 - Natural Language Processing with TensorFlow
 
-* [Intro to NLP and Text Processing with TensorFlow]()
+* [Intro to NLP and Text Processing with TensorFlow](https://github.com/Nyandwi/machine_learning_complete/blob/main/9_nlp_with_tensorflow/1_intro_to_nlp_and_text_preprocessing.ipynb)
 
     * Intro to Natural Language Processing
     * Text Processing with TensorFlow
     * Using TextVectorization Layer
-* [Using Word Embeddings to Represent Texts]()
+* [Using Word Embeddings to Represent Texts](https://github.com/Nyandwi/machine_learning_complete/blob/main/9_nlp_with_tensorflow/2_using_word_embeddings_to_represent_texts.ipynb)
 
     * Intro Word Embeddings
     * Embedding In Practice
     * Using Pretrained Embeddings
-* [Recurrent Neural Networks (RNNs)]()
+* [Recurrent Neural Networks (RNNs)](https://github.com/Nyandwi/machine_learning_complete/blob/main/9_nlp_with_tensorflow/3_recurrent_neural_networks.ipynb)
 
     * Intro to Recurrent Neural Networks
     * Simple RNNs In Practice: Movies Sentiment Analysis
     * Intro to Long Short Terms Memories
     * LSTMs in Practice : News Classification
     
-* [Using Convolutional Neural Networks for Texts Classification]()
+* [Using Convolutional Neural Networks for Texts Classification](https://github.com/Nyandwi/machine_learning_complete/blob/main/9_nlp_with_tensorflow/4_using_cnns_and_rnns_for_texts_classification.ipynb)
 
     * Intro Convolutional Neural Networks for Texts
     * CNN for Texts in Practice: News Classification
     * Combining ConvNets and RNNs
     
-* [Using Pretrained BERT for Text Classification]()
+* [Using Pretrained BERT for Text Classification](https://github.com/Nyandwi/machine_learning_complete/blob/main/9_nlp_with_tensorflow/5_using_pretrained_bert_for_text_classification.ipynb)
 
     * Intro to BERT
     * In Practice: Finetuning a Pretrained BERT
