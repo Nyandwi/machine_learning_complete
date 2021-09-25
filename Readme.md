@@ -1,19 +1,22 @@
 # A Complete Machine Learning Package
 
 
-***Techniques, tools, best practices and everything you need to build effective Machine Learning Systems!***
+***Techniques, tools, best practices and everything you need to to learn machine learning!***
 
 
 This is a comprehensive repository containing 30+ notebooks on Python programming, data manipulation, data analysis, data visualization, data cleaning, classical machine learning, Computer Vision and Natural Language Processing(NLP). 
 
-As much as I can, I tried to care much about things that can be useful to anyone who is looking an intensive machine learning resource, either for learning or solving real problems. Everything is explained, and further resources are provided in some cases. 
+All notebooks were created with the readers in mind. Every notebook starts with a high-level overview of any specific algorithm/concepts being covered. Wherever possible, visuals are used to make things clear. 
 
-You can view or run the notebooks with
 
-* Blender
+## Viewing and Running the Notebooks
+
+The easiest way to view all the notebooks is to use Nbviewer. If you want to play with the codes, you can use the following platforms: 
+
 * DeepNotes
 * Colab
-* Github Notebooks
+* Kaggle
+* My Binder
 
 
 ## Tools Overview
@@ -201,34 +204,17 @@ Many of the datasets used for this repository are from the following sources:
 * [Kaggle](https://www.kaggle.com/datasets)
 * [TensorFlow datasets](https://www.tensorflow.org/datasets/catalog/overview)
 
-As much as I can, I used unfamiliar datasets wherever possible, especially if I were not motivated enough for the day.
-
-## Running The Code
-
-To run the codes, you need to install the above tools into your machine. It is advised to create a virtual environment. 
-
-If you don't want to install anything, you can run all notebooks in Google Colab, or view the notebooks interactively through Brender. You can also run them in DeepNote. 
-
-## Sponsoring the Project
-
-I would appreciate very much if you can show me some love by sponsoring this work. I initially started it with the idea of having all things anyone might need in one repository, and I am so amazed by how far this has got. 
-
-You can sponsor me through Patreon or here. Or buy him a coffee. 
 
 *******
 
 This repository was created by Jean de Dieu Nyandwi. You can find him on: 
 * [Twitter](https://twitter.com/jeande_d)
-* [Newsletter: Deep Learning Revision](https://www.getrevue.co/profile/deepyearning)
 * [LinkedIn](https://linkedin.com/in/nyandwi)
 * [Medium](https://jeande.medium.com)
 * [Hashnode](https://jeande.tech)
 * [Instagram](https://instgram.com/jeande_d)
+* [Newsletter: Deep Learning Revision](https://www.getrevue.co/profile/deepyearning)
 
 
 ### *If you find any of this thing helpful, shoot me a [tweet](https://twitter.com/jeande_d) or a mention. I will appreciate it a lot :)*
 
-
-```python
-
-```
