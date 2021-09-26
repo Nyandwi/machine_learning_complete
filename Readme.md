@@ -221,5 +221,5 @@ This repository was created by Jean de Dieu Nyandwi. You can find him on:
 * [Newsletter: Deep Learning Revision](https://www.getrevue.co/profile/deepyearning)
 
 
-### *If you find any of this thing helpful, shoot him a [tweet](https://twitter.com/jeande_d) or a mentio.:)*
+### *If you find any of this thing helpful, shoot him a [tweet](https://twitter.com/jeande_d) or a mention.:)*
 
