@@ -23,8 +23,6 @@ If you want to play with the codes, you can use the following platforms:
 
 * <a href="https://colab.research.google.com/github/Nyandwi/machine_learning_complete" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-* <a href="https://mybinder.org/v2/gh/Nyandwi/machine_learning_complete/main"><img src="https://mybinder.org/badge_logo.svg" alt="Launch binder" /></a>
-
 * <a href="https://deepnote.com/project/machinelearningcomplete-4vpZ-iGjRUeXCQpL5zcIsw/%2Fmachine_learning_complete%2F0_python_for_ml/"><img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg" alt="Launch in Deepnote" /></a>
 
 *Deepnote will direct you to the first notebook(Intro to Python). Heads to the project side bar for more notebooks.*
