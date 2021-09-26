@@ -67,14 +67,14 @@ The following are the tools that are covered in the notebooks. They are popular 
 #### [2 - Data Manipulation with Pandas](https://github.com/Nyandwi/machine_learning_complete/blob/main/2_data_manipulation_with_pandas/2_data_manipulation_with_pandas.ipynb)
 
 
-* Basics of Pandas for data manipulation:
-* Series and DataFrames
-* Data Indexing and Selection, and Iteration (Add Iteration)
-* Dealing with Missing data
-* Basic operations and Functions
-* Aggregation Methods
-* Groupby
-* Merging, Joining and Concatenate
+* Basics of Pandas
+   * Series and DataFrames
+   * Data Indexing and Selection
+   * Dealing with Missing data
+   * Basic operations and Functions
+   * Aggregation Methods
+   * Groupby
+   * Merging, Joining and Concatenate
 * Beyond Dataframes: Working with CSV, and Excel
 * Real World Exploratory Data Analysis (EDA)
 
