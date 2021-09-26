@@ -5,7 +5,7 @@
 ***Techniques, tools, best practices and everything you need to to learn machine learning!***
 
 
-![tools](https://github.com/Nyandwi/machine_learning_complete/blob/main/images/ml_pack.png)
+![toolss](https://github.com/Nyandwi/machine_learning_complete/blob/main/images/git_cover.png)
 
 
 This is a comprehensive repository containing 30+ notebooks on Python programming, data manipulation, data analysis, data visualization, data cleaning, classical machine learning, Computer Vision and Natural Language Processing(NLP). 
