@@ -148,7 +148,7 @@ The following are the tools that are covered in the notebooks. They are popular 
     
 * [Neural Networks for Regression with TensorFlow](https://github.com/Nyandwi/machine_learning_complete/blob/main/7_intro_to_artificial%20_neural_networks_and_tensorflow/3_neural_networks_for_regresion_with_tensorflow.ipynb)
 
-* [Neural Networks for Classification with TensorFlown](https://github.com/Nyandwi/machine_learning_complete/blob/main/7_intro_to_artificial%20_neural_networks_and_tensorflow/4_neural_networks_for_classification_with_tensorflow.ipynb)
+* [Neural Networks for Classification with TensorFlow](https://github.com/Nyandwi/machine_learning_complete/blob/main/7_intro_to_artificial%20_neural_networks_and_tensorflow/4_neural_networks_for_classification_with_tensorflow.ipynb)
 
 
 ### 8 - Deep Computer Vision with TensorFlow
