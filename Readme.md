@@ -26,7 +26,7 @@ If you want to play with the codes, you can use the following platforms:
 
 ## Tools Overview
 
-The following are the tools that are covered in the notebooks. They are popular tools that machine learning engineers and data scientists need in one way or another an day to day. 
+The following are the tools that are covered in the notebooks. They are popular tools that machine learning engineers and data scientists need in one way or another and day to day. 
 
 * **Python** is a high level programming language that has got a lot of popularity in the data community and with the rapid growth of the libraries and frameworks, this is a right programming language to do ML.
 
@@ -34,7 +34,7 @@ The following are the tools that are covered in the notebooks. They are popular 
 
 * **Pandas** is a great and simple tool for analyzing and manipulating data from a variety of different sources.
 
-* **Matplotlib** is a visualization tool that will help us to make sense of datasets by making plots.
+* **Matplotlib** is a comprehensive data visualization tool used to create static, animated, and interactive visualizations in Python.
 
 * **Seaborn** is another data visualization tool built on top of Matplotlib which is pretty simple to use.
 
