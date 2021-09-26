@@ -17,7 +17,7 @@ All notebooks were created with the readers in mind. Every notebook starts with 
 
 The easiest way to view all the notebooks is to use Nbviewer. 
 
-* <a href="https://nbviewer.jupyter.org/github/nyandwi/machine_learning_complete/blob/main/notebooks.ipynb"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
+* <a href="https://nbviewer.jupyter.org/github/nyandwi/machine_learning_complete/blob/master/notebooks.ipynb"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
 
 If you want to play with the codes, you can use the following platforms: 
 
