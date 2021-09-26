@@ -21,7 +21,7 @@ The easiest way to view all the notebooks is to use Nbviewer.
 
 If you want to play with the codes, you can use the following platforms: 
 
-* <a href="https://colab.research.google.com/github/nyandwi/machine_learning_complete/blob/main/" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* <a href="https://colab.research.google.com/github/Nyandwi/machine_learning_complete" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 ## Tools Overview
