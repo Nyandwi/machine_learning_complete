@@ -182,7 +182,7 @@ The following are the tools that are covered in the notebooks. They are popular 
     * Using TextVectorization Layer
 * [Using Word Embeddings to Represent Texts](https://github.com/Nyandwi/machine_learning_complete/blob/main/9_nlp_with_tensorflow/2_using_word_embeddings_to_represent_texts.ipynb)
 
-    * Intro Word Embeddings
+    * Intro to Word Embeddings
     * Embedding In Practice
     * Using Pretrained Embeddings
 * [Recurrent Neural Networks (RNNs)](https://github.com/Nyandwi/machine_learning_complete/blob/main/9_nlp_with_tensorflow/3_recurrent_neural_networks.ipynb)
