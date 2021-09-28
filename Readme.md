@@ -216,7 +216,7 @@ Many of the datasets used for this repository are from the following sources:
 
 ## Further Resources
 
-Machine Learning community is very vibrant. There are many faboulous learning resources, some which are paid or free. Here is a list of courses that has got high community ratings. They are not listed in an order they are to be taken. 
+Machine Learning community is very vibrant. There are many faboulous learning resources, some of which are paid or free available. Here is a list of courses that has got high community ratings. They are not listed in an order they are to be taken. 
 
 ### Courses
 
@@ -233,7 +233,26 @@ Machine Learning community is very vibrant. There are many faboulous learning re
 
 * **Full Stack Deep Learning**: While the majority of machine learning courses focuses on modelling, this course focuses on shipping machine learning systems. It teaches how to design machine learning projects, data management(storage, access, processing, versioning, and labeling), training, debugging, and deploying machine learning models. See 2021 version [here](https://fullstackdeeplearning.com/spring2021/) and 2019 [here](https://fall2019.fullstackdeeplearning.com). You can also skim through the [project showcases](https://fullstackdeeplearning.com/spring2021/projects/) to see the kind of the courses outcomes through learners projects. 
 
+* **NYU Deep Learning Spring 2021**: Taught at NYU by Yann LeCun, Alfredo Canziani, this course is one of the most creative courses out there. The materials are presented in amazing way. Check the lecture videos [here](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI), and the course repo [here](https://github.com/Atcold/NYU-DLSP21). 
+
 * **CS224N: Natural Language Processing with Deep Learning by Stanford**: If you are interested in Natural Language Processing, this is a great course to take. It is taught by Christopher Manning, one of the world class NLP stars. See the lecture videos [here](https://www.youtube.com/playlist?list=PLU40WL8Ol94IJzQtileLTqGZuXtGlLMP_). 
+
+### Books
+
+Below is of the most awesome machine learning books. 
+
+* **Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow**: Authored by Aurelion Geron, this is one of the best machine learning books. It is clearly written and full of ideas and best practices. You can ge the book [here](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/), or see its repository [here](https://github.com/ageron/handson-ml2). 
+
+* **Deep Learning**:Authored by 3 deep learning legends, Ian Goodfellow and Yoshua Bengio and Aaron Courville, this is one of the great deep learning books that is freely available. You can get it [here](https://www.deeplearningbook.org). 
+
+* **Deep Learning with Python**: Authored by Francois Chollet, The Keras designer, this is a very comprehensive deep learning book. You can get the book [here](https://www.manning.com/books/deep-learning-with-python-second-edition), and the book repo [here](https://github.com/fchollet/deep-learning-with-python-notebooks). 
+
+* **Dive into Deep Learning**: This is also a great deep learning book that is freely available. The book uses both PyTorch and TensorFlow. You can read the entire book [here](https://d2l.ai/index.html).
+
+* **Neural Networks and Deep Learning**: This is also another great deep learning online book by Michael Nielsen. You can read the entire book [here](http://neuralnetworksanddeeplearning.com).
+
+If you are interested in more machine learning and deep learning resources, check [this](https://deep-learning-drizzle.github.io), [this](https://github.com/dair-ai/ML-YouTube-Courses) 
+
 
 *******
 
