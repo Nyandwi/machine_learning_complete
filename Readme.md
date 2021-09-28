@@ -233,6 +233,8 @@ Machine Learning community is very vibrant. There are many faboulous learning re
 
 * **Full Stack Deep Learning**: While the majority of machine learning courses focuses on modelling, this course focuses on shipping machine learning systems. It teaches how to design machine learning projects, data management(storage, access, processing, versioning, and labeling), training, debugging, and deploying machine learning models. See 2021 version [here](https://fullstackdeeplearning.com/spring2021/) and 2019 [here](https://fall2019.fullstackdeeplearning.com). You can also skim through the [project showcases](https://fullstackdeeplearning.com/spring2021/projects/) to see the kind of the courses outcomes through learners projects. 
 
+* **CS224N: Natural Language Processing with Deep Learning by Stanford**: If you are interested in Natural Language Processing, this is a great course to take. It is taught by Christopher Manning, one of the world class NLP stars. See the lecture videos [here](https://www.youtube.com/playlist?list=PLU40WL8Ol94IJzQtileLTqGZuXtGlLMP_). 
+
 *******
 
 This repository was created by Jean de Dieu Nyandwi. You can find him on: 
