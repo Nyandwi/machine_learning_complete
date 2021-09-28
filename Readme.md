@@ -214,6 +214,25 @@ Many of the datasets used for this repository are from the following sources:
 * [TensorFlow datasets](https://www.tensorflow.org/datasets/catalog/overview)
 
 
+## Further Resources
+
+Machine Learning community is very vibrant. There are many faboulous learning resources, some which are paid or free. Here is a list of courses that has got high community ratings. They are not listed in an order they are to be taken. 
+
+### Courses
+
+* **Machine Learning by Coursera**: This course was tought by Andrew Ng. It is one of the most popular machine learning courses, it has been taked by over 4M of people. The courses focuses more about the fundamentals of machine learning techniques and algorithms. It is free on [Coursera](https://www.coursera.org/learn/machine-learning). 
+
+* **Deep Learning Specialization**: Also tought by Andrew Ng., Deep Learning Specialization is also a foundations based course. It teaches a decent foundations of major deep learning architectures such as convolutional neural networks and recurrent neural networks. The full course can be [audited on Coursera](https://www.coursera.org/specializations/deep-learning), or watch freely on [Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0).
+
+* **MIT Intro to Deep Learning**: This courses provide the foundations of deep learning in resonably short period of time. Each lecture is one hour or less, but the materials are still the best in classs. Check the course page [here](http://introtodeeplearning.com), and lecture videos [here](https://www.youtube.com/watch?v=AjtX1N_VT9E&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=4).
+
+* **CS231N: Convolutional Neural Networks for Visual Recognition by Stanford**: CS231N is one of the best deep learning and computer vision courses. The 2017 version was taught by Fei-Fei Li, Justin Johnson and Serena Yeung. The [2016 version](http://cs231n.stanford.edu/2016/) was taught by Fei-Fei, Johnson and Andrej Karpathy. See 2017 lecture videos [here](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLzUTmXVwsnXod6WNdg57Yc3zFx_f-RYsq&index=1&t=457s), and other materials [here](http://cs231n.stanford.edu). 
+
+* **Practical Deep Learning for Coders by fast.ai**: This is also an intensive deep learning course pretty much the whole spectrum of deep learning architectures and techniques. The [lecture videos](https://course.fast.ai/videos/?lesson=1) and other resources such as [notebooks](https://github.com/fastai/fastbook) on the [course page](https://course.fast.ai). 
+
+
+* **Full Stack Deep Learning**: While the majority of machine learning courses focuses on modelling, this course focuses on shipping machine learning systems. It teaches how to design machine learning projects, data management(storage, access, processing, versioning, and labeling), training, debugging, and deploying machine learning models. See 2021 version [here](https://fullstackdeeplearning.com/spring2021/) and 2019 [here](https://fall2019.fullstackdeeplearning.com). You can also skim through the [project showcases](https://fullstackdeeplearning.com/spring2021/projects/) to see the kind of the courses outcomes through learners projects. 
+
 *******
 
 This repository was created by Jean de Dieu Nyandwi. You can find him on: 
