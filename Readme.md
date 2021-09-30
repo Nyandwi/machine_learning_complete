@@ -216,11 +216,11 @@ Many of the datasets used for this repository are from the following sources:
 
 ## Further Resources
 
-Machine Learning community is very vibrant. There are many faboulous learning resources, some of which are paid or free available. Here is a list of courses that has got high community ratings. They are not listed in an order they are to be taken. 
+Machine Learning community is very vibrant. There are many faboulous learning resources, some of which are paid or freely available. Here is a list of courses that has got high community ratings. They are not listed in an order they are to be taken. 
 
 ### Courses
 
-* **Machine Learning by Coursera**: This course was tought by Andrew Ng. It is one of the most popular machine learning courses, it has been taken by over 4M of people. The course focuses more about the fundamentals of machine learning techniques and algorithms. It is free on [Coursera](https://www.coursera.org/learn/machine-learning). 
+* **Machine Learning by Coursera**: This course was taught by Andrew Ng. It is one of the most popular machine learning courses, it has been taken by over 4M of people. The course focuses more about the fundamentals of machine learning techniques and algorithms. It is free on [Coursera](https://www.coursera.org/learn/machine-learning). 
 
 * **Deep Learning Specialization**: Also tought by Andrew Ng., Deep Learning Specialization is also a foundations based course. It teaches a decent foundations of major deep learning architectures such as convolutional neural networks and recurrent neural networks. The full course can be [audited on Coursera](https://www.coursera.org/specializations/deep-learning), or watch freely on [Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0).
 
