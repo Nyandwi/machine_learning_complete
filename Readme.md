@@ -226,18 +226,18 @@ Machine Learning community is very vibrant. There are many faboulous learning re
 
 * **MIT Intro to Deep Learning**: This course provide the foundations of deep learning in resonably short period of time. Each lecture is one hour or less, but the materials are still the best in classs. Check the course page [here](http://introtodeeplearning.com), and lecture videos [here](https://www.youtube.com/watch?v=AjtX1N_VT9E&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=4).
 
+* **NYU Deep Learning Spring 2021**: Taught at NYU by Yann LeCun, Alfredo Canziani, this course is one of the most creative courses out there. The materials are presented in amazing way. Check the lecture videos [here](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI), and the course repo [here](https://github.com/Atcold/NYU-DLSP21). 
+
 * **CS231N: Convolutional Neural Networks for Visual Recognition by Stanford**: CS231N is one of the best deep learning and computer vision courses. The 2017 version was taught by Fei-Fei Li, Justin Johnson and Serena Yeung. The [2016 version](http://cs231n.stanford.edu/2016/) was taught by Fei-Fei, Johnson and Andrej Karpathy. See 2017 lecture videos [here](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLzUTmXVwsnXod6WNdg57Yc3zFx_f-RYsq&index=1&t=457s), and other materials [here](http://cs231n.stanford.edu). 
+
+* **CS224N: Natural Language Processing with Deep Learning by Stanford**: If you are interested in Natural Language Processing, this is a great course to take. It is taught by Christopher Manning, one of the world class NLP stars. See the lecture videos [here](https://www.youtube.com/playlist?list=PLU40WL8Ol94IJzQtileLTqGZuXtGlLMP_). 
 
 * **Practical Deep Learning for Coders by fast.ai**: This is also an intensive deep learning course that cover the whole spectrum of deep learning architectures and techniques. The [lecture videos](https://course.fast.ai/videos/?lesson=1) and other resources such as [notebooks](https://github.com/fastai/fastbook) are the [course page](https://course.fast.ai). 
 
 * **Machine Learning Engineering for Production (MLOps) Specialization**: Taught by Andrew Ng., Laurence Moroney, and Robert Crowe, this is one of the best ML engineering course. It teaches how to design end to end machine learning production systems, building efficient data and modelling pipelines, and deploying models in production. You can find the course on [Coursera](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops#about) and other course materials on [Github](https://github.com/https-deeplearning-ai/machine-learning-engineering-for-production-public). 
 
-
 * **Full Stack Deep Learning**: While the majority of machine learning courses focuses on modelling, this course focuses on shipping machine learning systems. It teaches how to design machine learning projects, data management(storage, access, processing, versioning, and labeling), training, debugging, and deploying machine learning models. See 2021 version [here](https://fullstackdeeplearning.com/spring2021/) and 2019 [here](https://fall2019.fullstackdeeplearning.com). You can also skim through the [project showcases](https://fullstackdeeplearning.com/spring2021/projects/) to see the kind of the courses outcomes through learners projects. 
 
-* **NYU Deep Learning Spring 2021**: Taught at NYU by Yann LeCun, Alfredo Canziani, this course is one of the most creative courses out there. The materials are presented in amazing way. Check the lecture videos [here](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI), and the course repo [here](https://github.com/Atcold/NYU-DLSP21). 
-
-* **CS224N: Natural Language Processing with Deep Learning by Stanford**: If you are interested in Natural Language Processing, this is a great course to take. It is taught by Christopher Manning, one of the world class NLP stars. See the lecture videos [here](https://www.youtube.com/playlist?list=PLU40WL8Ol94IJzQtileLTqGZuXtGlLMP_). 
 
 ### Books
 
