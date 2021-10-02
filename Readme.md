@@ -226,9 +226,9 @@ Machine Learning community is very vibrant. There are many faboulous learning re
 
 * **MIT Intro to Deep Learning**: This course provide the foundations of deep learning in resonably short period of time. Each lecture is one hour or less, but the materials are still the best in classs. Check the course page [here](http://introtodeeplearning.com), and lecture videos [here](https://www.youtube.com/watch?v=AjtX1N_VT9E&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=4).
 
-* **CS231N: Convolutional Neural Networks for Visual Recognition by Stanford**: CS231N is one of the best deep learning and computer vision courses. The 2017 version was taught by Fei-Fei Li, Justin Johnson and Serena Yeung. The [2016 version](http://cs231n.stanford.edu/2016/) was taught by Fei-Fei, Johnson and Andrej Karpathy. See 2017 lecture videos [here](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLzUTmXVwsnXod6WNdg57Yc3zFx_f-RYsq&index=1&t=457s), and other materials [here](http://cs231n.stanford.edu). 
-
 * **NYU Deep Learning Spring 2021**: Taught at NYU by Yann LeCun, Alfredo Canziani, this course is one of the most creative courses out there. The materials are presented in amazing way. Check the lecture videos [here](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI), and the course repo [here](https://github.com/Atcold/NYU-DLSP21). 
+
+* **CS231N: Convolutional Neural Networks for Visual Recognition by Stanford**: CS231N is one of the best deep learning and computer vision courses. The 2017 version was taught by Fei-Fei Li, Justin Johnson and Serena Yeung. The [2016 version](http://cs231n.stanford.edu/2016/) was taught by Fei-Fei, Johnson and Andrej Karpathy. See 2017 lecture videos [here](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLzUTmXVwsnXod6WNdg57Yc3zFx_f-RYsq&index=1&t=457s), and other materials [here](http://cs231n.stanford.edu). 
 
 * **CS224N: Natural Language Processing with Deep Learning by Stanford**: If you are interested in Natural Language Processing, this is a great course to take. It is taught by Christopher Manning, one of the world class NLP stars. See the lecture videos [here](https://www.youtube.com/playlist?list=PLU40WL8Ol94IJzQtileLTqGZuXtGlLMP_). 
 
