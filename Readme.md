@@ -259,7 +259,7 @@ Below is of the most awesome machine learning books.
 
 * **Neural Networks and Deep Learning**: This is also another great deep learning online book by Michael Nielsen. You can read the entire book [here](http://neuralnetworksanddeeplearning.com).
 
-If you are interested in more machine learning and deep learning resources, check [this](https://deep-learning-drizzle.github.io), [this](https://github.com/dair-ai/ML-YouTube-Courses) 
+If you are interested in more machine learning and deep learning resources, check [ML Starter Kit](https://ludwigstumpp.com/ml-starter-kit), [this](https://deep-learning-drizzle.github.io) and [this](https://github.com/dair-ai/ML-YouTube-Courses).
 
 
 *******
