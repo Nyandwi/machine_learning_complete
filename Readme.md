@@ -61,7 +61,7 @@ The following are the tools that are covered in the notebooks. They are popular 
 * Creating a NumPy Array
 * Selecting Data: Indexing and Slicing An Array
 * Performing Mathematical and other Basic Operations
-* Perform Basic Statistics
+* Performing Basic Statistics
 * Manipulating Data
 
 #### [2 - Data Manipulation with Pandas](https://github.com/Nyandwi/machine_learning_complete/blob/main/2_data_manipulation_with_pandas/2_data_manipulation_with_pandas.ipynb)
