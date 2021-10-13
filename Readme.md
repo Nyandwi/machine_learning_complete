@@ -64,6 +64,8 @@ The following are the tools that are covered in the notebooks. They are popular 
 * Performing Basic Statistics
 * Manipulating Data
 
+*You can find a detailed notes about NumPy [here](https://github.com/Nyandwi/machine_learning_complete/blob/main/1_data_computations_with_numpy/detailed_notes_on_numpy.pdf).*
+
 #### [2 - Data Manipulation with Pandas](https://github.com/Nyandwi/machine_learning_complete/blob/main/2_data_manipulation_with_pandas/2_data_manipulation_with_pandas.ipynb)
 
 
