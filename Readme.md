@@ -44,7 +44,7 @@ The following are the tools that are covered in the notebooks. They are popular 
 
 * **Scikit-Learn**: Instead of building machine learning models from scratch, Scikit-Learn makes it easy to use classical models in a few lines of code. This tool is adapted by almost the whole of the ML community and industries, from the startups to the big techs. 
 
-* **TensorFlow and Keras** for neural networks: TensorFlow is a popular deep learning framework used for building models suitable for different fields such as Computer Vision and Natural Language Processing. At its backend, it uses Keras which is a high level API for building neural networks easily. TensorFlow has gained a lot of popularity in the ML community due to its complete ecosystem made of wholesome tools including TensorBoard, TF Datasets, TensorFlow Lite, TensorFlow Extended, TensorFlow.js, etc...
+* **TensorFlow and Keras** for neural networks: TensorFlow is a popular deep learning framework used for building models suitable for different fields such as Computer Vision and Natural Language Processing. Keras is a high level API of TensorFlow. TensorFlow and Keras have gained a lot of popularity in the ML community due to their complete ecosystem made of wholesome tools including TensorBoard, TF Datasets, TensorFlow Lite, TensorFlow Extended, TensorFlow.js, etc...
 
 
 
