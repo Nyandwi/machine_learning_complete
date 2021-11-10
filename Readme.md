@@ -270,7 +270,6 @@ This repository was created by Jean de Dieu Nyandwi. You can find him on:
 * [Twitter](https://twitter.com/jeande_d)
 * [LinkedIn](https://linkedin.com/in/nyandwi)
 * [Medium](https://jeande.medium.com)
-* [Hashnode](https://jeande.tech)
 * [Instagram](https://instgram.com/jeande_d)
 * [Newsletter: Deep Learning Revision](https://www.getrevue.co/profile/deepyearning)
 
