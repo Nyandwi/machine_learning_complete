@@ -100,12 +100,17 @@ The following are the tools that are covered in the notebooks. They are popular 
 ## Part 2 - Machine Learning
 
 
-### [5 - Intro to Machine Learning](https://github.com/Nyandwi/machine_learning_complete/blob/main/5_intro_to_machine_learning/5_intro_to_machine_learning.ipynb)
+### [5 - Intro to Machine Learning](https://github.com/Nyandwi/machine_learning_complete/tree/main/5_intro_to_machine_learning)
 
-* Intro to Machine Learning
-* Machine Learning Workflow
+* What is Machine Learning?
+* The Difference Between Artificial Intelligence, Data Science, Machine Learning, and Deep Learning
+* The Difference Between Machine Learning and Ordinary Programming
+* Applications of Machine Learning
+* When to Use and When not to Use Machine Learning
+* Types of Machine Learning
+* A Typical Machine Learning Project Workflow
 * Evaluation Metrics
-* Handling Underfitting and Overfitting
+* The Challenges of Machine Learning Systems
 
 
 ### 6 - Classical Machine Learning with Scikit-Learn
