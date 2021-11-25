@@ -31,7 +31,7 @@ A more technical definition of machine learning was provided by Tom M. Mitchell 
 
 > *A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E.*
 
-For the meaning of Mitchell definition on machine learning, check out [this](LINK).
+For the meaning of Mitchell definition on machine learning, check out [this Twitter thread](https://twitter.com/Jeande_d/status/1455872282899877894?s=20).
 
 Wikipedia provides a much clear definition of machine learning: 
 
