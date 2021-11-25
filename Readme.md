@@ -100,7 +100,7 @@ The following are the tools that are covered in the notebooks. They are popular 
 ## Part 2 - Machine Learning
 
 
-### [5 - Machine Learning Fundamentals](https://github.com/Nyandwi/machine_learning_complete/tree/main/5_intro_to_machine_learning)
+### [5 - Machine Learning Fundamentals](https://github.com/Nyandwi/machine_learning_complete/blob/main/5_intro_to_machine_learning/ml_fundamentals.md)
 
 * What is Machine Learning?
 * The Difference Between Artificial Intelligence, Data Science, Machine Learning, and Deep Learning
