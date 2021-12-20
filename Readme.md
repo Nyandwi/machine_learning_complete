@@ -160,19 +160,19 @@ The following are the tools that are covered in the notebooks. They are popular 
 
 ### 8 - Deep Computer Vision with TensorFlow
  
-* [Intro to Computer Vision with Convolutional Neural Networks(CNN)](https://github.com/Nyandwi/machine_learning_complete/blob/main/8_deep_computer_vision%20with_tensorflow/1_intro_to_computer_vision_and_cnn.ipynb)
+* [Intro to Computer Vision with Convolutional Neural Networks(CNN)](https://github.com/Nyandwi/machine_learning_complete/blob/main/8_deep_computer_vision_with_tensorflow/1_intro_to_computer_vision_and_cnn.ipynb)
 
     * Intro to Computer Vision and CNNs
        * What is Convolutional Neural Networks?
        * A Typical Architecture of Convolutional Neural Networks
     * Coding ConvNets: Image Classification
     
-* [ConvNets for Real World Data and Image Augmentation](https://github.com/Nyandwi/machine_learning_complete/blob/main/8_deep_computer_vision%20with_tensorflow/2_cnn_for_real_world_data_and_image_augmentation.ipynb)
+* [ConvNets for Real World Data and Image Augmentation](https://github.com/Nyandwi/machine_learning_complete/blob/main/8_deep_computer_vision_with_tensorflow/2_cnn_for_real_world_data_and_image_augmentation.ipynb)
 
     * Intro - Real World Datasets and Data Augmentation
     * Getting Started: Real World Datasets and Overfitting
     * Image Augmentation with Keras Image Augmentation Layers
-* [CNN Architectures and Transfer Learning](https://github.com/Nyandwi/machine_learning_complete/blob/main/8_deep_computer_vision%20with_tensorflow/3_cnn_architectures_and_transfer_learning.ipynb)
+* [CNN Architectures and Transfer Learning](https://github.com/Nyandwi/machine_learning_complete/blob/main/8_deep_computer_vision_with_tensorflow/3_cnn_architectures_and_transfer_learning.ipynb)
 
     * Looking Back: A Review on State of the Art CNN Architectures
     * Intro to Transfer Learning and using Pretrained Models
