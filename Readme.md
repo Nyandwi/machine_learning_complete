@@ -256,7 +256,7 @@ Below is of the most awesome machine learning books.
 
 * **Machine Learning Yearning**: Authored by Andrew Ng., the book contains various strategies for building effective learning systems. It is partitioned into small parts which makes it easy to read and it is not sorely for machine learning engineers. Anyone working with data science and machine learning teams can find the book helpful. The official book is available [here](https://www.deeplearning.ai/programs/) for free, but you can read or download it [here](https://github.com/ajaymache/machine-learning-yearning) without requiring to sign up. 
 
-* **Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow**: Authored by Aurelion Geron, this is one of the best machine learning books. It is clearly written and full of ideas and best practices. You can ge the book [here](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/), or see its repository [here](https://github.com/ageron/handson-ml2). 
+* **Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow**: Authored by Aurelion Geron, this is one of the best machine learning books. It is clearly written and full of ideas and best practices. You can get the book [here](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/), or see its repository [here](https://github.com/ageron/handson-ml2). 
 
 * **Deep Learning**: Authored by 3 deep learning legends, Ian Goodfellow and Yoshua Bengio and Aaron Courville, this is one of the great deep learning books that is freely available. You can get it [here](https://www.deeplearningbook.org). 
 
