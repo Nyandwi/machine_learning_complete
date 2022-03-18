@@ -276,7 +276,7 @@ This repository was created by Jean de Dieu Nyandwi. You can find him on:
 * [LinkedIn](https://linkedin.com/in/nyandwi)
 * [Medium](https://jeande.medium.com)
 * [Instagram](https://www.instagram.com/jeande_de)
-* [Newsletter: Deep Learning Revision](https://www.getrevue.co/profile/deepyearning)
+* [Newsletter: Deep Learning Revision](https://www.getrevue.co/profile/deeprevision)
 
 
 ### *If you find any of this thing helpful, shoot him a [tweet](https://twitter.com/jeande_d) or a mention :)*
