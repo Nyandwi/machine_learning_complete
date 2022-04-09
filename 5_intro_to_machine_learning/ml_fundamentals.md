@@ -295,7 +295,7 @@ As the next parts will cover the practical implementations of typical data prepr
 
 * **Scaling the numeric features:** Most ML models work well when the input values are scaled to small values because they can train and converge faster than they would otherwise. There are two main scaling techniques that are normalization and standardization. Normalization rescales the feautures to the values between 0 and 1 whereas standardization rescales the features to have mean of 0 and a unit standard deviation. If you are aware that your data has normal or gausian distribution, normalization can be a good choice. Otherwise, standardization will work well in many cases. 
 
-In many textbooks and courses, data preprocessing is also referred to data cleaning or data preparation. Feature engineering is also a part of data preprocessing. Feature engineering is a creative task and it require some extra knouledge about the data and the problem as it involves creating new features from existing features.
+In many textbooks and courses, data preprocessing is also referred to data cleaning or data preparation. Feature engineering is also a part of data preprocessing. Feature engineering is a creative task and it require some extra knowledge about the data and the problem as it involves creating new features from existing features.
 
 #### Selecting and Training a Model
 
