@@ -160,7 +160,7 @@ The following are the tools that are covered in the notebooks. They are popular 
 
 ### 8 - Deep Computer Vision with TensorFlow
  
-* [Intro to Computer Vision with Convolutional Neural Networks(CNN)](https://github.com/Nyandwi/machine_learning_complete/blob/main/8_deep_computer_vision_with_tensorflow/1_intro_to_computer_vision_and_cnn.ipynb)
+* [Intro to Computer Vision with Convolutional Neural Networks(CNNs)](https://github.com/Nyandwi/machine_learning_complete/blob/main/8_deep_computer_vision_with_tensorflow/1_intro_to_computer_vision_and_cnn.ipynb)
 
     * Intro to Computer Vision and CNNs
        * What is Convolutional Neural Networks?
@@ -172,10 +172,11 @@ The following are the tools that are covered in the notebooks. They are popular 
     * Intro - Real World Datasets and Data Augmentation
     * Getting Started: Real World Datasets and Overfitting
     * Image Augmentation with Keras Image Augmentation Layers
-* [CNN Architectures and Transfer Learning](https://github.com/Nyandwi/machine_learning_complete/blob/main/8_deep_computer_vision_with_tensorflow/3_cnn_architectures_and_transfer_learning.ipynb)
+* [Transfer Learning with Pretrained Convolutional Neural Networks](https://github.com/Nyandwi/machine_learning_complete/blob/main/8_deep_computer_vision_with_tensorflow/3_transfer_learning_convnets.ipynb)
 
-    * Looking Back: A Review on State of the Art CNN Architectures
-    * Intro to Transfer Learning and using Pretrained Models
+    * Motivation for Transfer Learning
+    * Introduction to Transfer Learning
+    * A Typical Flow of Transfer Learning
     * Quick Image Classification with Pretrained Models
     * Transfer Learning and FineTuning in Practice
     * Quick Image Classification and Transfer Learning with TensorFlow Hub
