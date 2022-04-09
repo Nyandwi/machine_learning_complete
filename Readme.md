@@ -1,4 +1,4 @@
-# A Complete Machine Learning Package
+# Complete Machine Learning Package
 
 ****************
 
