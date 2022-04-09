@@ -221,10 +221,9 @@ Many of the datasets used for this repository are from the following sources:
 * [Kaggle](https://www.kaggle.com/datasets)
 * [TensorFlow datasets](https://www.tensorflow.org/datasets/catalog/overview)
 
-
 ## Further Resources
 
-Machine Learning community is very vibrant. There are many faboulous learning resources, some of which are paid or freely available. Here is a list of courses that has got high community ratings. They are not listed in an order they are to be taken. 
+Machine Learning community is very vibrant. There are many faboulous learning resources, some of which are paid or freely available. Here is a list of courses that has got high community ratings. They are not listed in an order they are to be taken.
 
 ### Courses
 
@@ -267,9 +266,11 @@ Below is of the most awesome machine learning books.
 
 * **Neural Networks and Deep Learning**: This is also another great deep learning online book by Michael Nielsen. You can read the entire book [here](http://neuralnetworksanddeeplearning.com).
 
-If you are interested in more machine learning and deep learning resources, check [ML Starter Kit](https://ludwigstumpp.com/ml-starter-kit), [this](https://deep-learning-drizzle.github.io) and [this](https://github.com/dair-ai/ML-YouTube-Courses).
+If you are interested in more machine learning and deep learning resources, you can find them [here](https://ludwigstumpp.com/ml-starter-kit), [here](https://deep-learning-drizzle.github.io) and [here](https://github.com/dair-ai/ML-YouTube-Courses).
 
-
+## Recent News
+* April 9th, 2022: Updated [Transfer Learning with Pretrained Convolutional Neural Networks](https://github.com/Nyandwi/machine_learning_complete/blob/main/8_deep_computer_vision_with_tensorflow/3_transfer_learning_convnets.ipynb) with additional things and added further resources.
+* November 25th, 2021: Updated [Fundamentals of Machine Learning](https://github.com/Nyandwi/machine_learning_complete/blob/main/5_intro_to_machine_learning/ml_fundamentals.md): Added introductory notes, ML system design workflow, and challenges of learning systems.
 *******
 
 This repository was created by Jean de Dieu Nyandwi. You can find him on: 
@@ -280,5 +281,5 @@ This repository was created by Jean de Dieu Nyandwi. You can find him on:
 * [Newsletter: Deep Learning Revision](https://www.getrevue.co/profile/deeprevision)
 
 
-### *If you find any of this thing helpful, shoot him a [tweet](https://twitter.com/jeande_d) or a mention :)*
+### If you find any of this thing helpful, let him know [here](https://twitter.com/Jeande_d) :)
 
