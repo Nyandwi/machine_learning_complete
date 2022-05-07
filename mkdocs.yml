@@ -1,0 +1,113 @@
+site_name: Complete Machine Learning Package
+repo_url: https://github.com/Nyandwi/machine_learning_complete/
+repo_name: Nyandwi/machine_learning_complete
+
+
+theme:
+  name: material
+  custom_dir: mkdocs-material/material
+  # Necessary for search to work properly
+  include_search_page: false
+  search_index_only: true
+  palette:
+    primary: black
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  font:
+    text: Roboto
+    code: Roboto Mono
+  #favicon: assets/favicon.png
+  icon:
+    logo: logo
+    repo: fontawesome/brands/github-square
+  
+  #hide header
+  features:
+    - header.autohide
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.top
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+plugins:
+ - mkdocs-jupyter
+ - search
+
+nav:
+  - Home: 'index.md'
+  - Programming:
+    - '00 Python for Machine Learning': '00_intro_to_python.ipynb'
+  
+  - Working with Data:
+    - Data Computations with NumPy:
+      - '01 Introduction to NumPy': '01_intro_to_Numpy_for_data_computation.ipynb'
+    - Data Manipulation with Pandas:
+      - '02 Pandas': '02_data_manipulation_with_pandas.ipynb'
+    - Data Visualization:
+      - '03 Data Visualization with Matplotlib': '03_data_visualizations_with_matplotlib.ipynb'
+      - '04 Data Visualization with Seaborn': '04_data_visualization_with_seaborn.ipynb'
+      - '05 Data Visualization with Pandas': '05_data_visualization with_pandas.ipynb'
+    - Data Analysis and Preparation:
+      - '06 Exploratory Data Analysis': '06_exploratory_data_analysis.ipynb'
+      - '07 Intro to Data Preparation': '07_intro_to_data_preparation.ipynb'
+      - '08 Feature Encoding': '08_encoding_categorical_features.ipynb'
+      - '09 Feature Scaling': '09_feature_scaling.ipynb'
+      - '10 Handling Missing Values': '10_handling_missing_values.ipynb'    
+  
+  - Machine Learning:
+      - Machine Learning Fundamentals:
+        - '11 ML Fundamentals': '11_ml_fundamentals.md'
+      - Classical Machine Learning with Scikit-Learn:
+        - '12 Intro to Scikit-Learn': '12_intro_to_sklearn.ipynb'
+        - '13 Linear Models for Regression': '13_linear_models_for_regression.ipynb'
+        - '14 Linear Models for Classification': '14_linear_models_for_classification.ipynb'
+        - '15 SVM for Regression': '15_support_vector_machines_for_regression.ipynb'
+        - '16 SVM for Classification': '16_support_vector_machines_for_classification.ipynb'
+        - '17 Decision Trees for Regression': '17_decision_trees_for_regression.ipynb'
+        - '18 Decision Trees for Classification': '18_decision_trees_for_classification.ipynb'
+        - '19 Random Forests for Regression': '19_random_forests_for_regression.ipynb'
+        - '20 Random Forests for Classification': '20_random_forests_for_classification.ipynb'
+        - '21 Ensemble Models': '21_ensemble_models.ipynb'
+        - '22 Unsupervised learning': '22_intro_to_unsupervised_learning_with_kmeans_clustering.ipynb'
+        - '23 PCA': '23_a_practical_intro_to_principal_components_analysis.ipynb'
+  
+  - Deep Learning:
+      - Introduction to Deep Learning:
+        - '24 Intro to Neural Networks': '24_intro_to_neural_networks.ipynb'
+        - '25 Intro to DL with TensorFlow': '25_intro_to_tensorflow_for_deeplearning.ipynb'
+        - '26 Neural Nets for Regression': '26_neural_networks_for_regresion_with_tensorflow.ipynb'
+        - '27 Neural Nets for Classification': '27_neural_networks_for_classification_with_tensorflow.ipynb'
+      - Deep Learning for Computer Vision:
+        - '28 Intro to ConvNets for Computer Vision': '28_intro_to_computer_vision_and_cnn.ipynb'
+        - '29 ConvNets and Data Augmentations': '29_cnn_for_real_world_data_and_image_augmentation.ipynb'
+        - '30 Transfer Learning with Pre-trained ConvNets': '30_cnn_architectures_and_transfer_learning.ipynb'
+      - Deep Learning for Natural Language Processing:
+        - '31 Intro to Text Processing with TensorFlow': '31_intro_to_nlp_and_text_preprocessing.ipynb'
+        - '32 Word Embeddings': '32_using_word_embeddings_to_represent_texts.ipynb'
+        - '33 RNNs': '33_recurrent_neural_networks.ipynb'
+        - '34 ConvNets for Text Classification': '34_using_cnns_and_rnns_for_texts_classification.ipynb'
+        - '35 Using Pre-trained BERT': '35_using_pretrained_bert_for_text_classification.ipynb'
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/Jeande_d
+    - icon: fontawesome/brands/github
+      link: https://github.com/Nyandwi
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCSPFIgLyc2t-pNim-CdyBNQ
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/nyandwi
+    - icon: fontawesome/brands/medium
+      link: https://jeande.medium.com/
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/nyandwi.de
+
