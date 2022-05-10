@@ -9,7 +9,6 @@ copyright: Created by Jean de Dieu Nyandwi
 
 theme:
   name: material
-  custom_dir: mkdocs-material/material
   # Necessary for search to work properly
   include_search_page: false
   search_index_only: true
