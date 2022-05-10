@@ -1,207 +1,207 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/00_intro_to_python/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/01_intro_to_Numpy_for_data_computation/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/02_data_manipulation_with_pandas/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/03_data_visualizations_with_matplotlib/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/04_data_visualization_with_seaborn/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/05_data_visualization%20with_pandas/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/06_exploratory_data_analysis/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/07_intro_to_data_preparation/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/08_encoding_categorical_features/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/09_feature_scaling/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/10_handling_missing_values/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/11_ml_fundamentals/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/12_intro_to_sklearn/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/13_linear_models_for_regression/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/14_linear_models_for_classification/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/15_support_vector_machines_for_regression/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/16_support_vector_machines_for_classification/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/17_decision_trees_for_regression/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/18_decision_trees_for_classification/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/19_random_forests_for_regression/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/20_random_forests_for_classification/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/21_ensemble_models/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/22_intro_to_unsupervised_learning_with_kmeans_clustering/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/23_a_practical_intro_to_principal_components_analysis/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/24_intro_to_neural_networks/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/25_intro_to_tensorflow_for_deeplearning/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/26_neural_networks_for_regresion_with_tensorflow/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/27_neural_networks_for_classification_with_tensorflow/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/28_intro_to_computer_vision_and_cnn/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/29_cnn_for_real_world_data_and_image_augmentation/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/30_cnn_architectures_and_transfer_learning/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/31_intro_to_nlp_and_text_preprocessing/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/32_using_word_embeddings_to_represent_texts/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/33_recurrent_neural_networks/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/34_using_cnns_and_rnns_for_texts_classification/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/35_using_pretrained_bert_for_text_classification/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/outline/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/extras/ack/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/extras/resources/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://nyandwi.com/machine_learning_complete/extras/tools-overview/</loc>
          <lastmod>2022-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
