@@ -1,6 +1,6 @@
  
 
-## 5. Machine Learning Fundamentals
+# Machine Learning Fundamentals
 
 We are living in the age of the intelligent machines. In the last decade, machine learning powered systems went from beating the world class chess players to now influencing most of our daily decisions like what we watch on streaming services like Netlix and Youtube. What is machine learning? And why is it important to be studying it now?
 

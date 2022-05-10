@@ -1,7 +1,10 @@
 site_name: Complete Machine Learning Package
+site_author: Jean de Dieu Nyandwi
 repo_url: https://github.com/Nyandwi/machine_learning_complete/
 repo_name: Nyandwi/machine_learning_complete
-
+site_description: >-
+  Learn Machine Learning through understanding and doing!
+copyright: Created by Jean de Dieu Nyandwi
 
 theme:
   name: material
@@ -9,27 +12,41 @@ theme:
   # Necessary for search to work properly
   include_search_page: false
   search_index_only: true
+  
   palette:
-    primary: black
+    - scheme: default
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
 
   # Default values, taken from mkdocs_theme.yml
   language: en
   font:
     text: Roboto
     code: Roboto Mono
-  #favicon: assets/favicon.png
+  favicon: assets/favicon.png
   icon:
     logo: logo
-    repo: fontawesome/brands/github-square
+    repo: fontawesome/brands/github-square 
   
-  #hide header
   features:
-    - header.autohide
-    - navigation.tracking
-    - navigation.tabs
-    - navigation.tabs.sticky
+    - content.code.annotate
     - navigation.indexes
+    - navigation.tabs
     - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
 
 markdown_extensions:
   - pymdownx.highlight
@@ -85,16 +102,21 @@ nav:
         - '25 Intro to DL with TensorFlow': '25_intro_to_tensorflow_for_deeplearning.ipynb'
         - '26 Neural Nets for Regression': '26_neural_networks_for_regresion_with_tensorflow.ipynb'
         - '27 Neural Nets for Classification': '27_neural_networks_for_classification_with_tensorflow.ipynb'
-      - Deep Learning for Computer Vision:
+      - Deep Computer Vision:
         - '28 Intro to ConvNets for Computer Vision': '28_intro_to_computer_vision_and_cnn.ipynb'
         - '29 ConvNets and Data Augmentations': '29_cnn_for_real_world_data_and_image_augmentation.ipynb'
         - '30 Transfer Learning with Pre-trained ConvNets': '30_cnn_architectures_and_transfer_learning.ipynb'
-      - Deep Learning for Natural Language Processing:
+      - Natural Language Processing:
         - '31 Intro to Text Processing with TensorFlow': '31_intro_to_nlp_and_text_preprocessing.ipynb'
         - '32 Word Embeddings': '32_using_word_embeddings_to_represent_texts.ipynb'
         - '33 RNNs': '33_recurrent_neural_networks.ipynb'
         - '34 ConvNets for Text Classification': '34_using_cnns_and_rnns_for_texts_classification.ipynb'
         - '35 Using Pre-trained BERT': '35_using_pretrained_bert_for_text_classification.ipynb'
+  - Others:
+      - Complete Outline: 'outline.md'
+      - Further Resources: 'extras/resources.md'
+      - Tools Overview: 'extras/tools-overview.md'
+      - Acknowledgment: 'extras/ack.md'
 
 extra:
   social:
