@@ -13,5 +13,4 @@ jobs:
           python-version: 3.x
       - run: pip install mkdocs-material 
       - run: pip install mkdocs-jupyter
-      - run: pip install jupyter
       - run: mkdocs gh-deploy --force

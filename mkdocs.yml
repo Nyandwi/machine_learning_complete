@@ -32,7 +32,7 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/favicon.png
+  favicon: assets/logo.png
   icon:
     logo: logo
     repo: fontawesome/brands/github-square 
