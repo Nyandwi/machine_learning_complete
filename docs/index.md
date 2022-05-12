@@ -11,7 +11,7 @@
 
 <center> 
     <h2> What Make the Package so Unique!</h2>
-    <p style="border:0.8px solid DimGray ;border-radius:5px; max-width:65%"> Interactive • Comprehensive •  Practical stuffs • End-to-end </p>
+    <p style="border:0.8px solid DimGray ;border-radius:5px; max-width:76%"> Interactive • Comprehensive •  Practical stuffs • Beginner friendly </p>
     <p><I> Every notebook was basically created with the learners in the mind! </i> </p>
 </center>
 
@@ -32,8 +32,8 @@ A friendly [Introduction to Python](00_intro_to_python.ipynb) is also provided f
 	    <img alt="Jean de Dieu Nyandwi" src="assets/profile-pic.jpg" style="float:centre; width: 50%; display: block;margin-left: auto; margin-right: auto; border-radius: 20px" /> </a></p>
     </div>
     <h3> Jean de Dieu Nyandwi </h3>
-    <a href="https://github.com/Nyandwi" target="_blank"> Github </a> | 
+    <a href="https:nyandwi.com" target="_blank"> Main </a> |
     <a href="https://twitter.com/Jeande_d" target="_blank"> Twitter </a> |
+    <a href="https://github.com/Nyandwi" target="_blank"> Github </a> | 
     <a href="https://www.linkedin.com/in/nyandwi/" target="_blank"> LinkedIn </a> |
-    <a href="mailto:johnjw7084@gmail.com" target="_blank"> Email </a>
 </center>

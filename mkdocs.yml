@@ -8,6 +8,11 @@ copyright: Created by Jean de Dieu Nyandwi
 
 theme:
   name: material
+  favicon: assets/logo.png
+  logo: assets/logo.png
+  icon:
+    logo: logo
+    repo: fontawesome/brands/github-square
   # Necessary for search to work properly
   include_search_page: false
   search_index_only: true
@@ -30,11 +35,7 @@ theme:
   language: en
   font:
     text: Roboto
-    code: Roboto Mono
-  favicon: assets/logo.png
-  icon:
-    logo: logo
-    repo: fontawesome/brands/github-square 
+    code: Roboto Mono 
   
   features:
     - content.code.annotate
