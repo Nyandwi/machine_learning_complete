@@ -1,3 +1,4 @@
 # folders to ignrore
-mkdocs-material
-site
+/mkdocs-material
+/site
+/docs
