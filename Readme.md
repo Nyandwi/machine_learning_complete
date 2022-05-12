@@ -4,6 +4,10 @@
 
 ***Techniques, tools, best practices and everything you need to to learn machine learning!***
 
+```
+ANNOUNCEMENT 🚀
+This repository is being restructured for better learning experience. Check back for updates! In the meantime, everything remain similar!
+```
 
 ![toolss](https://github.com/Nyandwi/machine_learning_complete/blob/main/images/git_cover.png)
 
