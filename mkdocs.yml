@@ -6,6 +6,8 @@ site_description: >-
   Learn Machine Learning through understanding and doing!
 copyright: Created by Jean de Dieu Nyandwi
 
+edit_uri: ""
+
 theme:
   name: material
   favicon: assets/logo.png
@@ -132,4 +134,9 @@ extra:
       link: https://jeande.medium.com/
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/nyandwi.de
+  
+  analytics:
+    provider: google
+    property: G-314958308
+
 
