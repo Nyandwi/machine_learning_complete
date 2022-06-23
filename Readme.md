@@ -2,57 +2,54 @@
 
 ****************
 
-***Techniques, tools, best practices and everything you need to to learn machine learning!***
-
-```
-ANNOUNCEMENT 🚀
-This repository is being restructured for better learning experience. Check back for updates! In the meantime, everything remain similar!
-```
-
-![toolss](https://github.com/Nyandwi/machine_learning_complete/blob/main/images/git_cover.png)
+<p style='text-align: justify;'> <a href="https://nbviewer.jupyter.org/github/Nyandwi/machine_learning_complete"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /> </a> <a href="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://deepnote.com/project/machinelearningcomplete-4vpZ-iGjRUeXCQpL5zcIsw/%2Fmachine_learning_complete%2F5_intro_to_machine_learning%2F5_intro_to_machine_learning.ipynb"><img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg" alt="Launch in Deepnote"/></a> </p>
 
 
-This is a comprehensive repository containing 30+ notebooks on Python programming, data manipulation, data analysis, data visualization, data cleaning, classical machine learning, Computer Vision and Natural Language Processing(NLP). 
 
-All notebooks were created with the readers in mind. Every notebook starts with a high-level overview of any specific algorithm/concepts being covered. Wherever possible, visuals are used to make things clear. 
+***Techniques, tools, best practices, and everything you need to to learn machine learning!***
+
+![tools](images/git_cover.png)
 
 
-## Viewing and Running the Notebooks
+[Complete Machine Learning Package](https://nyandwi.com/machine_learning_complete/) is a comprehensive repository containing 35 notebooks on Python programming, data manipulation, data analysis, data visualization, data cleaning, classical machine learning, Computer Vision and Natural Language Processing(NLP). 
 
-The easiest way to view all the notebooks is to use Nbviewer. 
+All notebooks were created with the readers in mind. Every notebook starts with a high-level overview of any specific algorithm/concept being covered. Wherever possible, visuals are used to make things clear.
 
-* <a href="https://nbviewer.jupyter.org/github/Nyandwi/machine_learning_complete"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
+*******
 
-If you want to play with the codes, you can use the following platforms: 
+## What's New 🔥
 
-* <a href="https://colab.research.google.com/github/Nyandwi/machine_learning_complete" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* June 23th, 2022: Many people have asked how they can support the package. You can buy us a [coffee ☕️](https://www.buymeacoffee.com/jeande)
 
-* <a href="https://deepnote.com/project/machinelearningcomplete-4vpZ-iGjRUeXCQpL5zcIsw/%2Fmachine_learning_complete%2F5_intro_to_machine_learning%2F5_intro_to_machine_learning.ipynb"><img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg" alt="Launch in Deepnote" /></a>
+* May 18th, 2022: Complete Machine Learning Package is now available on [web](https://nyandwi.com/machine_learning_complete/). It's now easy to view all notebooks!
 
-*Deepnote will direct you to `Intro to Machine Learning`. Heads to the project side bar for more notebooks.*
+* April 9th, 2022: Updated [Transfer Learning with Pretrained Convolutional Neural Networks](https://github.com/Nyandwi/machine_learning_complete/blob/main/8_deep_computer_vision_with_tensorflow/3_transfer_learning_convnets.ipynb) with additional things and added further resources.
 
+* November 25th, 2021: Updated [Fundamentals of Machine Learning](https://github.com/Nyandwi/machine_learning_complete/blob/main/5_intro_to_machine_learning/ml_fundamentals.md): Added introductory notes, ML system design workflow, and challenges of learning systems.
+
+*******
 
 ## Tools Overview
 
-The following are the tools that are covered in the notebooks. They are popular tools that machine learning engineers and data scientists need in one way or another and day to day. 
+The following are the tools that are covered in Complete Machine Learning Package. They are popular tools that most machine learning engineers and data scientists need in one way or another and day to day. 
 
-* **Python** is a high level programming language that has got a lot of popularity in the data community and with the rapid growth of the libraries and frameworks, this is a right programming language to do ML.
+* [Python](https://www.python.org) is a high level programming language that has got a lot of popularity in the data community and with the rapid growth of the libraries and frameworks, this is a right programming language to do ML.
 
-* **NumPy** is a scientific computing tool used for array or matrix operations. 
+* [NumPy](https://numpy.org) is a scientific computing tool used for array or matrix operations. 
 
-* **Pandas** is a great and simple tool for analyzing and manipulating data from a variety of different sources.
+* [Pandas](https://pandas.pydata.org) is a great and simple tool for analyzing and manipulating data from a variety of different sources.
 
-* **Matplotlib** is a comprehensive data visualization tool used to create static, animated, and interactive visualizations in Python.
+* [Matplotlib](https://matplotlib.org) is a comprehensive data visualization tool used to create static, animated, and interactive visualizations in Python.
 
-* **Seaborn** is another data visualization tool built on top of Matplotlib which is pretty simple to use.
+* [Seaborn](https://seaborn.pydata.org) is another data visualization tool built on top of Matplotlib which is pretty simple to use.
 
-* **Scikit-Learn**: Instead of building machine learning models from scratch, Scikit-Learn makes it easy to use classical models in a few lines of code. This tool is adapted by almost the whole of the ML community and industries, from the startups to the big techs. 
+* [Scikit-Learn](https://scikit-learn.org/stable/): Instead of building machine learning models from scratch, Scikit-Learn makes it easy to use classical models in a few lines of code. This tool is adapted by almost the whole of the ML community and industries, from the startups to the big techs. 
 
-* **TensorFlow and Keras** for neural networks: TensorFlow is a popular deep learning framework used for building models suitable for different fields such as Computer Vision and Natural Language Processing. Keras is a high level API of TensorFlow. TensorFlow and Keras have gained a lot of popularity in the ML community due to their complete ecosystem made of wholesome tools including TensorBoard, TF Datasets, TensorFlow Lite, TensorFlow Extended, TensorFlow.js, etc...
+* [TensorFlow](https://www.tensorflow.org) and [Keras](https://keras.io) for deep learning: TensorFlow is a popular deep learning framework used for building models suitable for different fields such as Computer Vision and Natural Language Processing. Keras is a high level neural network API that makes it easy to design deep learning models. TensorFlow and Keras have a great [community](https://discuss.tensorflow.org) and ecosystem that include tools like [TensorBoard](https://www.tensorflow.org/tensorboard), [TF Datasets](https://www.tensorflow.org/datasets), [TensorFlow Lite](https://www.tensorflow.org/lite), [TensorFlow Extended](https://www.tensorflow.org/tfx/), [TensorFlow Hub](https://www.tensorflow.org/hub), [TensorFlow.js](https://www.tensorflow.org/js), [TensorFlow GNN](https://github.com/tensorflow/gnn), and [much](https://www.tensorflow.org/resources/models-datasets) [more](https://www.tensorflow.org/resources/tools).
 
+*******
 
-
-## Outline
+## Complete Outline
 
 
 ## Part 1 - Intro to Python and Working with Data
@@ -60,7 +57,7 @@ The following are the tools that are covered in the notebooks. They are popular 
 
 ### [0 - Intro to Python for Machine Learning](https://github.com/Nyandwi/machine_learning_complete/blob/main/0_python_for_ml/intro_to_python.ipynb)
 
-### [1 - Data Computation With NumPy](https://github.com/Nyandwi/machine_learning_complete/blob/main/1_data_computations_with_numpy/1_intro_to_Numpy_for_data_computation.ipynb)
+### [1 - Data Computation With NumPy](https://nyandwi.com/machine_learning_complete/01_intro_to_Numpy_for_data_computation/)
 
 * Creating a NumPy Array
 * Selecting Data: Indexing and Slicing An Array
@@ -68,9 +65,9 @@ The following are the tools that are covered in the notebooks. They are popular 
 * Performing Basic Statistics
 * Manipulating Data
 
-*You can find a detailed notes about NumPy [here](https://github.com/Nyandwi/machine_learning_complete/blob/main/1_data_computations_with_numpy/detailed_notes_on_numpy.pdf).*
+[*You can find detailed notes about NumPy [here](https://github.com/Nyandwi/machine_learning_complete/blob/main/1_data_computations_with_numpy/detailed_notes_on_numpy.pdf)*]
 
-#### [2 - Data Manipulation with Pandas](https://github.com/Nyandwi/machine_learning_complete/blob/main/2_data_manipulation_with_pandas/2_data_manipulation_with_pandas.ipynb)
+### [2 - Data Manipulation with Pandas](https://nyandwi.com/machine_learning_complete/02_data_manipulation_with_pandas/)
 
 
 * Basics of Pandas
@@ -85,26 +82,29 @@ The following are the tools that are covered in the notebooks. They are popular 
 * Real World Exploratory Data Analysis (EDA)
 
 
-### 3 - Data Visualization with Matplotlib and Seaborn
+### 3 - Data Visualization
 
 
-* [Data Visualization with Matplotlib](https://github.com/Nyandwi/machine_learning_complete/blob/main/3_data_visualization/1_data_visualizations_with_matplotlib.ipynb)
-* [Data Visualization with Seaborn](https://github.com/Nyandwi/machine_learning_complete/blob/main/3_data_visualization/2_data_visualization_with_seaborn.ipynb)
-* [Optional: Data Visualization with Pandas](https://github.com/Nyandwi/machine_learning_complete/blob/main/3_data_visualization/3_data_visualization%20with_pandas.ipynb)
+* [Data Visualization with Matplotlib](https://nyandwi.com/machine_learning_complete/03_data_visualizations_with_matplotlib/)
+* [Data Visualization with Seaborn](https://nyandwi.com/machine_learning_complete/04_data_visualization_with_seaborn/)
+* [Data Visualization with Pandas](https://nyandwi.com/machine_learning_complete/05_data_visualization%20with_pandas/)
 
-### 4 - Real World Data - Exploratory Analysis and Data Preparation
+### 4 - Real World Data Exploratory Analysis and Data Preparation
 
-* [Exploratory Data Analysis](https://github.com/Nyandwi/machine_learning_complete/blob/main/4_real_world_data_analysis_and_preparation/1_exploratory_data_analysis.ipynb)
-* [Intro to Data Preparation](https://github.com/Nyandwi/machine_learning_complete/blob/main/4_real_world_data_analysis_and_preparation/2_intro_to_data_preparation.ipynb)
-* [Handling Categorical Features](https://github.com/Nyandwi/machine_learning_complete/blob/main/4_real_world_data_analysis_and_preparation/3_encoding_categorical_features.ipynb)
-* [Feature Scaling](https://github.com/Nyandwi/machine_learning_complete/blob/main/4_real_world_data_analysis_and_preparation/4_feature_scaling.ipynb)
-* [Handling Missing Values](https://github.com/Nyandwi/machine_learning_complete/blob/main/4_real_world_data_analysis_and_preparation/5_handling_missing_values.ipynb)
+* [Exploratory Data Analysis](https://nyandwi.com/machine_learning_complete/06_exploratory_data_analysis/)
+
+* [Intro to Data Preparation](https://nyandwi.com/machine_learning_complete/07_intro_to_data_preparation/)
+
+* [Handling Categorical Features](https://nyandwi.com/machine_learning_complete/08_encoding_categorical_features/)
+
+* [Feature Scaling](https://nyandwi.com/machine_learning_complete/09_feature_scaling/)
+
+* [Handling Missing Values](https://nyandwi.com/machine_learning_complete/10_handling_missing_values/)
 
 
 ## Part 2 - Machine Learning
 
-
-### [5 - Machine Learning Fundamentals](https://github.com/Nyandwi/machine_learning_complete/blob/main/5_intro_to_machine_learning/ml_fundamentals.md)
+### [5 - Machine Learning Fundamentals](https://nyandwi.com/machine_learning_complete/11_ml_fundamentals/)
 
 * What is Machine Learning?
 * The Difference Between Artificial Intelligence, Data Science, Machine Learning, and Deep Learning
@@ -119,25 +119,36 @@ The following are the tools that are covered in the notebooks. They are popular 
 
 ### 6 - Classical Machine Learning with Scikit-Learn
 
-* [Intro to Scikit-Learn for Machine Learning](https://github.com/Nyandwi/machine_learning_complete/blob/main/6_classical_machine_learning_with_scikit-learn/0_intro_to_sklearn.ipynb)
-* [Linear Models for Regression](https://github.com/Nyandwi/machine_learning_complete/blob/main/6_classical_machine_learning_with_scikit-learn/1_linear_models_for_regression.ipynb)
-* [Linear Models for Classification](https://github.com/Nyandwi/machine_learning_complete/blob/main/6_classical_machine_learning_with_scikit-learn/2_linear_models_for_classification.ipynb)
-* [Support Vector Machines: Intro and Regression](https://github.com/Nyandwi/machine_learning_complete/blob/main/6_classical_machine_learning_with_scikit-learn/3_support_vector_machines_for_regression.ipynb)
-* [Support Vector Machines for Classification](https://github.com/Nyandwi/machine_learning_complete/blob/main/6_classical_machine_learning_with_scikit-learn/4_support_vector_machines_for_classification.ipynb)
-* [Decision Trees: Intro and Regression](https://github.com/Nyandwi/machine_learning_complete/blob/main/6_classical_machine_learning_with_scikit-learn/5_decision_trees_for_regression.ipynb)
-* [Decision Trees for Classification](https://github.com/Nyandwi/machine_learning_complete/blob/main/6_classical_machine_learning_with_scikit-learn/6_decision_trees_for_classification.ipynb)
-* [Random Forests: Intro and Regression](https://github.com/Nyandwi/machine_learning_complete/blob/main/6_classical_machine_learning_with_scikit-learn/7_random_forests_for_regression.ipynb)
-* [Random Forests for Classification](https://github.com/Nyandwi/machine_learning_complete/blob/main/6_classical_machine_learning_with_scikit-learn/8_random_forests_for_classification.ipynb)
-* [Beyond Random Forests: More Ensemble Models](https://github.com/Nyandwi/machine_learning_complete/blob/main/6_classical_machine_learning_with_scikit-learn/9_ensemble_models.ipynb)
-* [Intro to Unsupervised Learning with KMeans Clustering](https://github.com/Nyandwi/machine_learning_complete/blob/main/6_classical_machine_learning_with_scikit-learn/10_intro_to_unsupervised_learning_with_kmeans_clustering.ipynb)
-* [A Practical Intro to Principal Component Analysis](https://github.com/Nyandwi/machine_learning_complete/blob/main/6_classical_machine_learning_with_scikit-learn/11_a_practical_intro_to_principal_components_analysis.ipynb)
+* [Intro to Scikit-Learn for Machine Learning](https://nyandwi.com/machine_learning_complete/12_intro_to_sklearn/)
+
+* [Linear Models for Regression](https://nyandwi.com/machine_learning_complete/13_linear_models_for_regression/)
+
+* [Linear Models for Classification](https://nyandwi.com/machine_learning_complete/14_linear_models_for_classification/)
+
+* [Support Vector Machines: Intro and Regression](https://nyandwi.com/machine_learning_complete/15_support_vector_machines_for_regression/)
+
+* [Support Vector Machines for Classification](https://nyandwi.com/machine_learning_complete/16_support_vector_machines_for_classification/)
+
+* [Decision Trees: Intro and Regression](https://nyandwi.com/machine_learning_complete/17_decision_trees_for_regression/)
+
+* [Decision Trees for Classification](https://nyandwi.com/machine_learning_complete/18_decision_trees_for_classification/)
+
+* [Random Forests: Intro and Regression](https://nyandwi.com/machine_learning_complete/19_random_forests_for_regression/)
+
+* [Random Forests for Classification](https://nyandwi.com/machine_learning_complete/20_random_forests_for_classification/)
+
+* [Beyond Random Forests: More Ensemble Models](https://nyandwi.com/machine_learning_complete/21_ensemble_models/)
+
+* [Intro to Unsupervised Learning with KMeans Clustering](https://nyandwi.com/machine_learning_complete/22_intro_to_unsupervised_learning_with_kmeans_clustering/)
+
+* [A Practical Intro to Principal Component Analysis](https://nyandwi.com/machine_learning_complete/23_a_practical_intro_to_principal_components_analysis/)
 
 
 ## Part 3 - Deep Learning
 
 ### 7 - Intro to Artificial Neural Networks and TensorFlow
 
-* [Intro to Articial Neural Networks](https://github.com/Nyandwi/machine_learning_complete/blob/main/7_intro_to_artificial%20_neural_networks_and_tensorflow/1_intro_to_neural_networks.ipynb)
+* [Intro to Articial Neural Networks](https://nyandwi.com/machine_learning_complete/24_intro_to_neural_networks/)
 
     * Why Deep Learning
     * A Single Layer Neural Network
@@ -150,33 +161,33 @@ The following are the tools that are covered in the notebooks. They are popular 
         
     * Challenges in Training Deep Neural Networks
     
-* [Intro to TensorFlow for Artificial Neural Networks](https://github.com/Nyandwi/machine_learning_complete/blob/main/7_intro_to_artificial%20_neural_networks_and_tensorflow/2_intro_to_tensorflow_for_deeplearning.ipynb)
+* [Intro to TensorFlow for Deep Learning](https://nyandwi.com/machine_learning_complete/25_intro_to_tensorflow_for_deeplearning/)
 
     * What is TensorFlow?
     * TensorFlow Model APIs
     * A Quick Tour into TensorFlow Ecosystem
     * Basics of Tensors
     
-* [Neural Networks for Regression with TensorFlow](https://github.com/Nyandwi/machine_learning_complete/blob/main/7_intro_to_artificial%20_neural_networks_and_tensorflow/3_neural_networks_for_regresion_with_tensorflow.ipynb)
+* [Neural Networks for Regression with TensorFlow](https://nyandwi.com/machine_learning_complete/26_neural_networks_for_regresion_with_tensorflow/)
 
-* [Neural Networks for Classification with TensorFlow](https://github.com/Nyandwi/machine_learning_complete/blob/main/7_intro_to_artificial%20_neural_networks_and_tensorflow/4_neural_networks_for_classification_with_tensorflow.ipynb)
+* [Neural Networks for Classification with TensorFlow](https://nyandwi.com/machine_learning_complete/27_neural_networks_for_classification_with_tensorflow/)
 
 
 ### 8 - Deep Computer Vision with TensorFlow
  
-* [Intro to Computer Vision with Convolutional Neural Networks(CNNs)](https://github.com/Nyandwi/machine_learning_complete/blob/main/8_deep_computer_vision_with_tensorflow/1_intro_to_computer_vision_and_cnn.ipynb)
+* [Intro to Computer Vision with Convolutional Neural Networks(CNNs)](https://nyandwi.com/machine_learning_complete/28_intro_to_computer_vision_and_cnn/)
 
     * Intro to Computer Vision and CNNs
        * What is Convolutional Neural Networks?
        * A Typical Architecture of Convolutional Neural Networks
     * Coding ConvNets: Image Classification
     
-* [ConvNets for Real World Data and Image Augmentation](https://github.com/Nyandwi/machine_learning_complete/blob/main/8_deep_computer_vision_with_tensorflow/2_cnn_for_real_world_data_and_image_augmentation.ipynb)
+* [ConvNets for Real World Data and Image Augmentation](https://nyandwi.com/machine_learning_complete/29_cnn_for_real_world_data_and_image_augmentation/#contents)
 
     * Intro - Real World Datasets and Data Augmentation
     * Getting Started: Real World Datasets and Overfitting
     * Image Augmentation with Keras Image Augmentation Layers
-* [Transfer Learning with Pretrained Convolutional Neural Networks](https://github.com/Nyandwi/machine_learning_complete/blob/main/8_deep_computer_vision_with_tensorflow/3_transfer_learning_convnets.ipynb)
+* [Transfer Learning with Pretrained Convolutional Neural Networks](https://nyandwi.com/machine_learning_complete/30_cnn_architectures_and_transfer_learning/)
 
     * Motivation for Transfer Learning
     * Introduction to Transfer Learning
@@ -185,35 +196,40 @@ The following are the tools that are covered in the notebooks. They are popular 
     * Transfer Learning and FineTuning in Practice
     * Quick Image Classification and Transfer Learning with TensorFlow Hub
 
+    [Updated notebook of Transfer Learning is found [here]((https://github.com/Nyandwi/machine_learning_complete/blob/main/8_deep_computer_vision_with_tensorflow/3_transfer_learning_convnets.ipynb))]
+
 ### 9 - Natural Language Processing with TensorFlow
 
-* [Intro to NLP and Text Processing with TensorFlow](https://github.com/Nyandwi/machine_learning_complete/blob/main/9_nlp_with_tensorflow/1_intro_to_nlp_and_text_preprocessing.ipynb)
+* [Intro to NLP and Text Processing with TensorFlow](https://nyandwi.com/machine_learning_complete/31_intro_to_nlp_and_text_preprocessing/)
 
     * Intro to Natural Language Processing
     * Text Processing with TensorFlow
     * Using TextVectorization Layer
-* [Using Word Embeddings to Represent Texts](https://github.com/Nyandwi/machine_learning_complete/blob/main/9_nlp_with_tensorflow/2_using_word_embeddings_to_represent_texts.ipynb)
+* [Using Word Embeddings to Represent Texts](https://nyandwi.com/machine_learning_complete/32_using_word_embeddings_to_represent_texts/)
 
     * Intro to Word Embeddings
     * Embedding In Practice
     * Using Pretrained Embeddings
-* [Recurrent Neural Networks (RNNs)](https://github.com/Nyandwi/machine_learning_complete/blob/main/9_nlp_with_tensorflow/3_recurrent_neural_networks.ipynb)
+* [Recurrent Neural Networks (RNNs)](https://nyandwi.com/machine_learning_complete/33_recurrent_neural_networks/)
 
     * Intro to Recurrent Neural Networks
     * Simple RNNs In Practice: Movies Sentiment Analysis
     * Intro to Long Short Terms Memories
     * LSTMs in Practice : News Classification
     
-* [Using Convolutional Neural Networks for Texts Classification](https://github.com/Nyandwi/machine_learning_complete/blob/main/9_nlp_with_tensorflow/4_using_cnns_and_rnns_for_texts_classification.ipynb)
+* [Using Convolutional Neural Networks for Texts Classification](https://nyandwi.com/machine_learning_complete/34_using_cnns_and_rnns_for_texts_classification/)
 
     * Intro Convolutional Neural Networks for Texts
     * CNN for Texts in Practice: News Classification
     * Combining ConvNets and RNNs
     
-* [Using Pretrained BERT for Text Classification](https://github.com/Nyandwi/machine_learning_complete/blob/main/9_nlp_with_tensorflow/5_using_pretrained_bert_for_text_classification.ipynb)
+* [Using Pretrained BERT for Text Classification](https://nyandwi.com/machine_learning_complete/35_using_pretrained_bert_for_text_classification/)
 
     * Intro to BERT
     * In Practice: Finetuning a Pretrained BERT
+
+*******
+
 
 ## Used Datasets
 
@@ -225,9 +241,11 @@ Many of the datasets used for this repository are from the following sources:
 * [Kaggle](https://www.kaggle.com/datasets)
 * [TensorFlow datasets](https://www.tensorflow.org/datasets/catalog/overview)
 
-## Further Resources
+*******
 
-Machine Learning community is very vibrant. There are many faboulous learning resources, some of which are paid or freely available. Here is a list of courses that has got high community ratings. They are not listed in an order they are to be taken.
+## Further Machine Learning Resources
+
+Machine Learning community is very vibrant. Complete Machine Learning Package can get you started, but it's not enough. Fortunately, there are many faboulous learning resources, some of which are paid or freely available. Here is a list of courses that are often recommended by many people. Note that they are not listed in an order they are to be taken.
 
 ### Courses
 
@@ -247,7 +265,7 @@ Machine Learning community is very vibrant. There are many faboulous learning re
 
 * **Machine Learning Engineering for Production (MLOps) Specialization**: Taught by Andrew Ng., Laurence Moroney, and Robert Crowe, this is one of the best ML engineering course. It teaches how to design end to end machine learning production systems, building efficient data and modelling pipelines, and deploying models in production. You can find the course on [Coursera](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops#about) and other course materials on [Github](https://github.com/https-deeplearning-ai/machine-learning-engineering-for-production-public). 
 
-* **Full Stack Deep Learning**: While the majority of machine learning courses focuses on modelling, this course focuses on shipping machine learning systems. It teaches how to design machine learning projects, data management(storage, access, processing, versioning, and labeling), training, debugging, and deploying machine learning models. See 2021 version [here](https://fullstackdeeplearning.com/spring2021/) and 2019 [here](https://fall2019.fullstackdeeplearning.com). You can also skim through the [project showcases](https://fullstackdeeplearning.com/spring2021/projects/) to see the kind of the courses outcomes through learners projects. 
+* **Full Stack Deep Learning**: While the majority of machine learning courses focuses on modelling, this course focuses on shipping machine learning systems. It teaches how to design machine learning projects, data management(storage, access, processing, versioning, and labeling), training, debugging, and deploying machine learning models. See 2021 version [here](https://fullstackdeeplearning.com/spring2021/) and 2019 [here](https://fall2019.fullstackdeeplearning.com). You can also skim through the [project showcases](https://fullstackdeeplearning.com/spring2021/projects/) to see the kind of the courses outcomes through learners projects.
 
 
 ### Books
@@ -270,20 +288,26 @@ Below is of the most awesome machine learning books.
 
 * **Neural Networks and Deep Learning**: This is also another great deep learning online book by Michael Nielsen. You can read the entire book [here](http://neuralnetworksanddeeplearning.com).
 
-If you are interested in more machine learning and deep learning resources, you can find them [here](https://ludwigstumpp.com/ml-starter-kit), [here](https://deep-learning-drizzle.github.io) and [here](https://github.com/dair-ai/ML-YouTube-Courses).
+If you are interested in more machine learning and deep learning resources, you can find them [here](https://ludwigstumpp.com/ml-starter-kit), [here](https://deep-learning-drizzle.github.io) and [here](https://github.com/dair-ai/ML-YouTube-Courses)
 
-## Recent News
-* April 9th, 2022: Updated [Transfer Learning with Pretrained Convolutional Neural Networks](https://github.com/Nyandwi/machine_learning_complete/blob/main/8_deep_computer_vision_with_tensorflow/3_transfer_learning_convnets.ipynb) with additional things and added further resources.
-* November 25th, 2021: Updated [Fundamentals of Machine Learning](https://github.com/Nyandwi/machine_learning_complete/blob/main/5_intro_to_machine_learning/ml_fundamentals.md): Added introductory notes, ML system design workflow, and challenges of learning systems.
 *******
 
-This repository was created by Jean de Dieu Nyandwi. You can find him on: 
-* [Twitter](https://twitter.com/jeande_d)
-* [LinkedIn](https://linkedin.com/in/nyandwi)
-* [Medium](https://jeande.medium.com)
-* [Instagram](https://www.instagram.com/nyandwi.de)
-* [Newsletter: Deep Learning Revision](https://www.getrevue.co/profile/deeprevision)
+## Citing Complete ML Package
+
+```
+@misc{Nyandwi2021MLPackage,
+  author = {Nyandwi, Jean de Dieu},
+  title = {Complete Machine Learning Package},
+  year = {2021},
+  howpublished = {\url{https://nyandwi.com/machine_learning_complete/}},
+}
+```
+******
+
+This repository was created by [Jean de Dieu Nyandwi](https://nyandwi.com). You can find him on [Twitter](https://twitter.com/jeande_d), [LinkedIn](https://linkedin.com/in/nyandwi), [Medium](https://jeande.medium.com), and [Instagram](https://www.instagram.com/nyandwi.de).
+
+If you enjoy any of this things, you can buy him a [coffee](https://www.buymeacoffee.com/jeande) ☕️
 
 
-### If you find any of this thing helpful, let him know [here](https://twitter.com/Jeande_d) :)
+
 

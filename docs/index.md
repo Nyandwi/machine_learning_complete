@@ -39,3 +39,11 @@ A friendly [Introduction to Python](00_intro_to_python.ipynb) is also provided f
     <a href="https://github.com/Nyandwi" target="_blank"> Github </a> | 
     <a href="https://www.linkedin.com/in/nyandwi/" target="_blank"> LinkedIn </a>
 </center>
+
+***********
+
+<center> <h2> Supporting the Package </h2>
+
+You can support Complete Machine Learning Package by following Jean on [Twitter](https://twitter.com/Jeande_d) and buying him a [coffee](https://www.buymeacoffee.com/jeande).
+
+</center>

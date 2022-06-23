@@ -8,11 +8,12 @@ If you get any error, suggestion, more resources that you think should be added 
 
 If you use Complete Machine Learning Package, we'd appreciate if you cite us.
 
+
 ```
-@misc{MLPackage,
-    author       = {Jean de Dieu Nyandwi},
-    title        = {Complete Machine Learning Package},
-    howpublished = {\url{https://package.nyandwi.com}},
-    year         = {2021}
+@misc{Nyandwi2021MLPackage,
+  author = {Nyandwi, Jean de Dieu},
+  title = {Complete Machine Learning Package},
+  year = {2021},
+  howpublished = {\url{https://nyandwi.com/machine_learning_complete/}},
 }
 ```

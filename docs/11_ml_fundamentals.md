@@ -361,14 +361,14 @@ The square of the error over all samples is called Mean Squarred Error(MSE).
 
 ***MSE Actual Formula***: 
 
-$$\frac 1n\sum_{i=1}^n(y_i-\hat{y}_i)^2$$
+$\frac 1n\sum_{i=1}^n(y_i-\hat{y}_i)^2$
 
 
 Taking the square root of the mean squared error will give the Root Mean Squared Error(RMSE). RMSE is the most used regression metric. 
 
 ***RMSE Actual Formula***: 
 
-$$\sqrt{\frac 1n\sum_{i=1}^n(y_i-\hat{y}_i)^2}$$
+$\sqrt{\frac 1n\sum_{i=1}^n(y_i-\hat{y}_i)^2}$
 
 There are times that you will work with the datasets containing outliers. A suitable metric for those kinds of datasets is Mean Absolute Error (MAE). As simple as calculating MSE, MAE is also the absolute of the error.
 
@@ -376,7 +376,7 @@ There are times that you will work with the datasets containing outliers. A suit
 
 ***MAE Actual Formula***
 
-$$\frac 1n\sum_{i=1}^n|y_i-\hat{y}_i|$$
+$\frac 1n\sum_{i=1}^n|y_i-\hat{y}_i|$
 
 Like said, MAE is very sensitive to outliers. It is a suitable metric for all kinds of problems that are likely to have abnormal scenarios such as time series.
 
