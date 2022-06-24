@@ -37,13 +37,6 @@ A friendly [Introduction to Python](00_intro_to_python.ipynb) is also provided f
     <a href="https://nyandwi.com" target="_blank"> Main </a> |
     <a href="https://twitter.com/Jeande_d" target="_blank"> Twitter </a> |
     <a href="https://github.com/Nyandwi" target="_blank"> Github </a> | 
-    <a href="https://www.linkedin.com/in/nyandwi/" target="_blank"> LinkedIn </a>
-</center>
-
-***********
-
-<center> <h2> Supporting the Package </h2>
-
-You can support Complete Machine Learning Package by following Jean on [Twitter](https://twitter.com/Jeande_d) and buying him a [coffee](https://www.buymeacoffee.com/jeande).
-
+    <a href="https://www.linkedin.com/in/nyandwi/" target="_blank"> LinkedIn </a> | 
+    <a href="https://www.buymeacoffee.com/jeande" target="_blank"> ☕️ </a>
 </center>
