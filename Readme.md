@@ -1,13 +1,8 @@
 # Complete Machine Learning Package
 
-****************
-
-
-<aside style="padding:10px; background-color:purple; border-radius: 9px">
-🔥 Ranked as one of top data science repositories on GitHub
-</aside>
-
-****************
+```
+🔥 Ranked as one of top data science repositories on GitHub!
+```
 
 <p style='text-align: justify;'> <a href="https://nbviewer.jupyter.org/github/Nyandwi/machine_learning_complete"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /> </a> <a href="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> <a href="https://deepnote.com/project/machinelearningcomplete-4vpZ-iGjRUeXCQpL5zcIsw/%2Fmachine_learning_complete%2F5_intro_to_machine_learning%2F5_intro_to_machine_learning.ipynb"><img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg" alt="Launch in Deepnote"/></a> </p>
 
