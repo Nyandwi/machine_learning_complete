@@ -297,7 +297,7 @@ If you are interested in more machine learning and deep learning resources, you 
 ## Citing Complete ML Package
 
 ```
-@misc{Nyandwi2021MLPackage,
+@article{Nyandwi2021MLPackage,
   author = {Nyandwi, Jean de Dieu},
   title = {Complete Machine Learning Package},
   year = {2021},
