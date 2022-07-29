@@ -298,10 +298,11 @@ If you are interested in more machine learning and deep learning resources, you 
 
 ```
 @article{Nyandwi2021MLPackage,
-  author = {Nyandwi, Jean de Dieu},
-  title = {Complete Machine Learning Package},
-  year = {2021},
-  howpublished = {\url{https://nyandwi.com/machine_learning_complete/}},
+    title = "Complete Machine Learning Package",
+    author = "Nyandwi, Jean de Dieu",
+    journal = "GitHub",
+    year = "2021",
+    url = "https://nyandwi.com/machine_learning_complete",
 }
 ```
 ******
