@@ -272,7 +272,7 @@ Machine Learning community is very vibrant. Complete Machine Learning Package ca
 
 ### Books
 
-Below is of the most awesome machine learning books. 
+Below are some few awesome machine learning books. 
 
 * **The Hundred-Page Machine Learning Book**: Authored by Andriy Burkov, this is one of the shortest but concise and well written book that you will ever find on the internet. You can read the book for free [here](http://themlbook.com/wiki/doku.php).
 
