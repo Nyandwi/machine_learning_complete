@@ -1,4 +1,4 @@
-# Complete Machine Learning Package
+# Complete Machine Learning & MLOps Package
 
 ```
 🏅 Ranked as one of the top data science repositories on GitHub!
@@ -48,6 +48,16 @@ The following are the tools that are covered in Complete Machine Learning Packag
 * [Scikit-Learn](https://scikit-learn.org/stable/): Instead of building machine learning models from scratch, Scikit-Learn makes it easy to use classical models in a few lines of code. This tool is adapted by almost the whole of the ML community and industries, from the startups to the big techs. 
 
 * [TensorFlow](https://www.tensorflow.org) and [Keras](https://keras.io) for deep learning: TensorFlow is a popular deep learning framework used for building models suitable for different fields such as Computer Vision and Natural Language Processing. Keras is a high level neural network API that makes it easy to design deep learning models. TensorFlow and Keras have a great [community](https://discuss.tensorflow.org) and ecosystem that include tools like [TensorBoard](https://www.tensorflow.org/tensorboard), [TF Datasets](https://www.tensorflow.org/datasets), [TensorFlow Lite](https://www.tensorflow.org/lite), [TensorFlow Extended](https://www.tensorflow.org/tfx/), [TensorFlow Hub](https://www.tensorflow.org/hub), [TensorFlow.js](https://www.tensorflow.org/js), [TensorFlow GNN](https://github.com/tensorflow/gnn), and [much](https://www.tensorflow.org/resources/models-datasets) [more](https://www.tensorflow.org/resources/tools).
+
+* [DVC](https://dvc.org/): Data Version Control is a data versioning, ML workflow automation, and experiment management tool that takes advantage of the existing software engineering toolset you're already familiar with (Git, your IDE, CI/CD, etc.). DVC helps data science and machine learning teams manage large datasets, make projects reproducible, and better collaborate.
+
+* [CML](https://cml.dev/): Continuous Machine Learning (CML) is an open-source library for implementing continuous integration & delivery (CI/CD) in machine learning projects. Use it to automate parts of your development workflow, including model training and evaluation, comparing ML experiments across your project history, and monitoring changing datasets.
+
+* [MLEM](https://mlem.ai/): MLEM is a tool to easily package, deploy and serve Machine Learning models. It seamlessly supports a variety of scenarios like real-time serving and batch processing.
+
+* [Kedro](https://kedro.org/): Kedro is an open-source Python framework for creating reproducible, maintainable and modular data science code. It borrows concepts from software engineering and applies them to machine-learning code; applied concepts include modularity, separation of concerns and versioning.
+
+
 
 *******
 
