@@ -279,6 +279,11 @@ Machine Learning community is very vibrant. Complete Machine Learning Package ca
 
 * **Full Stack Deep Learning**: While the majority of machine learning courses focuses on modelling, this course focuses on shipping machine learning systems. It teaches how to design machine learning projects, data management(storage, access, processing, versioning, and labeling), training, debugging, and deploying machine learning models. See 2021 version [here](https://fullstackdeeplearning.com/spring2021/) and 2019 [here](https://fall2019.fullstackdeeplearning.com). You can also skim through the [project showcases](https://fullstackdeeplearning.com/spring2021/projects/) to see the kind of the courses outcomes through learners projects.
 
+* Alexey ML course
+* Alexey MLOps course
+* Iterative DVC course
+* MLOps specialization
+
 
 ### Books
 
@@ -299,6 +304,12 @@ Below are some few awesome machine learning books.
 * **Dive into Deep Learning**: This is also a great deep learning book that is freely available. The book uses both PyTorch and TensorFlow. You can read the entire book [here](https://d2l.ai/index.html).
 
 * **Neural Networks and Deep Learning**: This is also another great deep learning online book by Michael Nielsen. You can read the entire book [here](http://neuralnetworksanddeeplearning.com).
+
+* **Practical MLOps: Operationalizing Machine Learning Models**: [here](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783).
+
+* **Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps**: [here](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783).
+
+
 
 If you are interested in more machine learning and deep learning resources, you can find them [here](https://ludwigstumpp.com/ml-starter-kit), [here](https://deep-learning-drizzle.github.io) and [here](https://github.com/dair-ai/ML-YouTube-Courses)
 
