@@ -279,11 +279,11 @@ Machine Learning community is very vibrant. Complete Machine Learning Package ca
 
 * **Full Stack Deep Learning**: While the majority of machine learning courses focuses on modelling, this course focuses on shipping machine learning systems. It teaches how to design machine learning projects, data management(storage, access, processing, versioning, and labeling), training, debugging, and deploying machine learning models. See 2021 version [here](https://fullstackdeeplearning.com/spring2021/) and 2019 [here](https://fall2019.fullstackdeeplearning.com). You can also skim through the [project showcases](https://fullstackdeeplearning.com/spring2021/projects/) to see the kind of the courses outcomes through learners projects.
 
-* ** Machine Learning Zoomcamp** : It is a course by Alexey Grigov and the DataTalksclub community that teaches the practical process of machine learning back with real-life project and a community of learners and practitioners in cohorts.
+* **Machine Learning Zoomcamp** : It is a course by Alexey Grigov and the DataTalksclub community that teaches the practical process of machine learning back with real-life project and a community of learners and practitioners in cohorts.
 
-* ** Machine Learning Operations(MLOps) Zoomcamp** : This course teach practical aspects of productionizing ML services — from collecting requirements to model deployment and monitoring. It is for Data scientists and ML engineers and also software engineers and data engineers interested in learning about putting ML in production.
+* **Machine Learning Operations(MLOps) Zoomcamp** : This course teach practical aspects of productionizing ML services — from collecting requirements to model deployment and monitoring. It is for Data scientists and ML engineers and also software engineers and data engineers interested in learning about putting ML in production.
 
-* ** Iterative MLOps Course** : This course is a well explained course that teaches Everything you need to know to to make your machine learning projects reproducible and take you from your notebook to production with Iterative tools.
+* **Iterative MLOps Course** : This course is a well explained course that teaches Everything you need to know to to make your machine learning projects reproducible and take you from your notebook to production with Iterative tools.
 
 
 
