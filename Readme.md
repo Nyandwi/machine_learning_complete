@@ -279,10 +279,14 @@ Machine Learning community is very vibrant. Complete Machine Learning Package ca
 
 * **Full Stack Deep Learning**: While the majority of machine learning courses focuses on modelling, this course focuses on shipping machine learning systems. It teaches how to design machine learning projects, data management(storage, access, processing, versioning, and labeling), training, debugging, and deploying machine learning models. See 2021 version [here](https://fullstackdeeplearning.com/spring2021/) and 2019 [here](https://fall2019.fullstackdeeplearning.com). You can also skim through the [project showcases](https://fullstackdeeplearning.com/spring2021/projects/) to see the kind of the courses outcomes through learners projects.
 
-* Alexey ML course
-* Alexey MLOps course
-* Iterative DVC course
-* MLOps specialization
+* ** Machine Learning Zoomcamp** : It is a course by Alexey Grigov and the DataTalksclub community that teaches the practical process of machine learning back with real-life project and a community of learners and practitioners in cohorts.
+
+* ** Machine Learning Operations(MLOps) Zoomcamp** : This course teach practical aspects of productionizing ML services — from collecting requirements to model deployment and monitoring. It is for Data scientists and ML engineers and also software engineers and data engineers interested in learning about putting ML in production.
+
+* ** Iterative MLOps Course** : This course is a well explained course that teaches Everything you need to know to to make your machine learning projects reproducible and take you from your notebook to production with Iterative tools.
+
+
+
 
 
 ### Books
@@ -305,9 +309,9 @@ Below are some few awesome machine learning books.
 
 * **Neural Networks and Deep Learning**: This is also another great deep learning online book by Michael Nielsen. You can read the entire book [here](http://neuralnetworksanddeeplearning.com).
 
-* **Practical MLOps: Operationalizing Machine Learning Models**: [here](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783).
+* **Practical MLOps: Operationalizing Machine Learning Models**: Getting your models into production is the fundamental challenge of machine learning. MLOps offers a set of proven principles aimed at solving this problem in a reliable and automated way. This insightful guide takes you through what MLOps is (and how it differs from DevOps) and shows you how to put it into practice to operationalize your machine learning models. You can read the entire book [here](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783).
 
-* **Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps**: [here](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783).
+* **Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps**: The design patterns in this book capture best practices and solutions to recurring problems in machine learning. The authors, three Google engineers, catalog proven methods to help data scientists tackle common problems throughout the ML process. These design patterns codify the experience of hundreds of experts into straightforward, approachable advice.In this book, you will find detailed explanations of 30 patterns for data and problem representation, operationalization, repeatability, reproducibility, flexibility, explainability, and fairness. Each pattern includes a description of the problem, a variety of potential solutions, and recommendations for choosing the best technique for your situation. You can read the entire book [here](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783).
 
 
 
