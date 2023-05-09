@@ -39,7 +39,10 @@ MLOps workflow contains at least 6 stages which are discussed in brief below:
 
 Designing machine learning models is an iterative process. The ML life-cycle stages discussed above represent a rough overview of tasks involved in shipping ML models but it is not exhaustive and some stages are not straight-forward. While most of us spend time on building models, model is a tiny thing in entire ML lifecycle and there are other things that are not neccarily related to machine learning. There is nothing that depicts the complexity of MLOps that picture below.
 
-![figure](https://github.com/Nyandwi/machine_learning_complete/raw/main/images/mlops-life)
+![figure](https://github.com/Nyandwi/machine_learning_complete/raw/main/images/mlops-life.png)
+
+
+
 
 
 ## 5. References
