@@ -51,6 +51,7 @@ theme:
     - toc.follow
 
 markdown_extensions:
+  - meta
   - pymdownx.highlight
   - pymdownx.superfences
   - pymdownx.tasklist:
@@ -59,6 +60,7 @@ markdown_extensions:
 plugins:
  - mkdocs-jupyter
  - search
+ - social
 
 nav:
   - Home: 'index.md'
@@ -114,6 +116,10 @@ nav:
         - '33 RNNs': '33_recurrent_neural_networks.ipynb'
         - '34 ConvNets for Text Classification': '34_using_cnns_and_rnns_for_texts_classification.ipynb'
         - '35 Using Pre-trained BERT': '35_using_pretrained_bert_for_text_classification.ipynb'
+
+  - MLOps:
+    - MLOps Guide: '36_mlops_guide.md'
+  
   - Others:
       - Complete Outline: 'outline.md'
       - Further Resources: 'extras/resources.md'
