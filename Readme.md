@@ -21,6 +21,8 @@ All notebooks were created with the readers in mind. Every notebook starts with 
 
 ## What's New 🔥
 
+*  May 10th, 2023: Added a [comprehensive guide on MLOps](https://github.com/Nyandwi/machine_learning_complete/blob/main/010_mlops/1_mlops_guide.md). Enjoy the guide!!
+
 * June 23th, 2022: Many people have asked how they can support the package. You can buy us a [coffee ☕️](https://www.buymeacoffee.com/jeande)
 
 * May 18th, 2022: Complete Machine Learning Package is now available on [web](https://nyandwi.com/machine_learning_complete/). It's now easy to view all notebooks!
@@ -310,9 +312,6 @@ If you are interested in more machine learning and deep learning resources, you 
 ******
 
 This repository was created by [Jean de Dieu Nyandwi](https://nyandwi.com). You can find him on [Twitter](https://twitter.com/jeande_d), [LinkedIn](https://linkedin.com/in/nyandwi), [Medium](https://jeande.medium.com), and [Instagram](https://www.instagram.com/nyandwi.de).
-
-If you enjoy any of this things, you can buy him a [coffee](https://www.buymeacoffee.com/jeande) ☕️
-
 
 
 
